@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Version>
-  <Available Build="16.0.12527.22286" I320Hash="6FF441941A609BC009BD7E154DB2A206" I640Hash="9123F02F8E0B9251747E0C44DE685F4B" I320Version="16.0.16830.20000" I640Version="16.0.16830.20000" />
+  <Available Build="16.0.12527.22286" I320Hash="A9662274915B5448DCDC7EB3B2B827C9" I640Hash="ACB785F110FCA881BAD3EC87875BDB75" I320Version="16.0.16907.20000" I640Version="16.0.16907.20000" />
   <SecurityFixes LastBuild="" />
   <RequiredClientVersion Build="15.0.4446.1000" />
   <MinUpgradeBuild Build="16.0.0.0" />
@@ -137,6 +137,11 @@
         <MinOSVersion Build="10.0" FailMessage="NoMinOS" />
       </PreReq>
     </ProductReleaseId>
+    <ProductReleaseId Name="O365BusinessEEANoTeamsRetail">
+      <PreReq>
+        <MinOSVersion Build="10.0" FailMessage="NoMinOS" />
+      </PreReq>
+    </ProductReleaseId>
     <ProductReleaseId Name="O365BusinessRetail">
       <PreReq>
         <MinOSVersion Build="10.0" FailMessage="NoMinOS" />
@@ -148,6 +153,11 @@
       </PreReq>
     </ProductReleaseId>
     <ProductReleaseId Name="O365HomePremRetail">
+      <PreReq>
+        <MinOSVersion Build="10.0" FailMessage="NoMinOS" />
+      </PreReq>
+    </ProductReleaseId>
+    <ProductReleaseId Name="O365ProPlusEEANoTeamsRetail">
       <PreReq>
         <MinOSVersion Build="10.0" FailMessage="NoMinOS" />
       </PreReq>
@@ -595,12 +605,12 @@
   </ProductReleaseIds>
   <DeliveryMechanism FFNRoot="5440fd1f-7ecb-4221-8110-145efaa6372f" />
   <AvailableBuilds>
-    <AvailableBuild RestrictionType="Default" Version="16.0.16830.20000" />
+    <AvailableBuild RestrictionType="Default" Version="16.0.16907.20000" />
     <AvailableBuild RestrictionType="OS" Value="7" Version="16.0.12527.22286" />
   </AvailableBuilds>
   <Throttle Value="250" />
   <LKG Value="16.0.12527.22286" />
-  <CreatedTimeUtc Value="09/05/2023 22:36" />
+  <CreatedTimeUtc Value="09/12/2023 19:05" />
   <ExpiredBuilds>
     <Build Value="16.0.14725.20000" />
     <Build Value="16.0.16327.20000" />
