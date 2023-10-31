@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Version>
-  <Available Build="16.0.12525.20000" I320Hash="FE846AEA3E07E2A39053DD5657D9AA48" I640Hash="8E4654078F09211C1204B9A8794FB6F6" I320Version="16.0.17023.20000" I640Version="16.0.17023.20000" />
+  <Available Build="16.0.12525.20000" I320Hash="96A6BD18D2C97A8F127215234D8D61F7" I640Hash="2A369F8FA070229D1FEE8621439C5D22" I320Version="16.0.17029.20000" I640Version="16.0.17029.20000" />
   <SecurityFixes LastBuild="" />
   <RequiredClientVersion Build="15.0.4446.1000" />
   <MinUpgradeBuild Build="16.0.0.0" />
@@ -595,45 +595,13 @@
   </ProductReleaseIds>
   <DeliveryMechanism FFNRoot="ea4a4090-de26-49d7-93c1-91bff9e53fc3" />
   <AvailableBuilds>
-    <AvailableBuild RestrictionType="Default" Version="16.0.17023.20000" />
+    <AvailableBuild RestrictionType="Default" Version="16.0.13009.20000" />
     <AvailableBuild RestrictionType="OS" Value="7" Version="16.0.12525.20000" />
-    <AvailableBuild RestrictionType="OS" Value="8.1" Version="16.0.16207.20000" />
   </AvailableBuilds>
   <Throttle Value="1000" />
   <LKG Value="16.0.12525.20000" />
-  <CreatedTimeUtc Value="10/26/2023 12:33" />
+  <CreatedTimeUtc Value="10/30/2023 23:33" />
   <ExpiredBuilds>
-    <Build Value="16.0.8201.2129" />
-    <Build Value="16.0.9226.2063" />
-    <Build Value="16.0.14710.20000" />
-    <Build Value="16.0.15028.20000" />
-    <Build Value="16.0.15418.20008" />
-    <Build Value="16.0.15418.20014" />
-    <Build Value="16.0.15420.20014" />
-    <Build Value="16.0.15612.20000" />
-    <Build Value="16.0.15626.20000" />
-    <Build Value="16.0.15627.20006" />
-    <Build Value="16.0.15629.20002" />
-    <Build Value="16.0.15714.20002" />
-    <Build Value="16.0.15716.20000" />
-    <Build Value="16.0.15717.20000" />
-    <Build Value="16.0.15719.20000" />
-    <Build Value="16.0.15730.20000" />
-    <Build Value="16.0.15801.20000" />
-    <Build Value="16.0.15803.20000" />
-    <Build Value="16.0.15827.20000" />
-    <Build Value="16.0.15828.20000" />
-    <Build Value="16.0.15908.20002" />
-    <Build Value="16.0.15910.20000" />
-    <Build Value="16.0.16119.20000" />
-    <Build Value="16.0.16120.20000" />
-    <Build Value="16.0.16208.20002" />
-    <Build Value="16.0.16209.20000" />
-    <Build Value="16.0.16404.20002" />
-    <Build Value="16.0.16620.20000" />
-    <Build Value="16.0.16713.20002" />
-    <Build Value="16.0.16901.20002" />
-    <Build Value="16.0.16902.20000" />
-    <Build Value="16.0.16903.20000" />
+    <Build Value="16.0.13010.20002" />
   </ExpiredBuilds>
 </Version>
