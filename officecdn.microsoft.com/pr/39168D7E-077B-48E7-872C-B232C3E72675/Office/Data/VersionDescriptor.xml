@@ -1,7 +1,7 @@
 <Version>
-  <Available Build="15.0.5589.1001" />
+  <Available Build="15.0.5603.1000" />
   <SecurityFixes LastBuild="" />
-  <Throttle Value="1" />
+  <Throttle Value="1000" />
   <RequiredClientVersion Build="15.0.4446.1000" />
   <Prereq>
     <MinOSVersion Build="6.1.0|6.2.0" FailMessage="NoMinOS" />
