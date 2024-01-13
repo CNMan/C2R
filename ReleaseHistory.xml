@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ReleaseHistory PublishedDate="01/11/2024 18:22">
+<ReleaseHistory PublishedDate="01/12/2024 21:09">
   <UpdateChannel Name="InsiderSlow" ID="CurrentPreview" DisplayName="Current Channel (Preview)">
     <Update Latest="True" Version="2401" LegacyVersion="16.0.17231.20036" Build="17231.20036" PubTime="2024-01-10T15:23:58.183Z" />
     <Update Latest="False" Version="2312" LegacyVersion="16.0.17126.20114" Build="17126.20114" PubTime="2024-01-03T16:23:25.917Z" />
@@ -62,7 +62,6 @@
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10385.20027" Build="10385.20027" PubTime="2022-04-12T13:18:24.81Z" />
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10384.20023" Build="10384.20023" PubTime="2022-03-08T14:17:24.187Z" />
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10383.20027" Build="10383.20027" PubTime="2022-02-08T14:17:19.753Z" />
-    <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10382.20034" Build="10382.20034" PubTime="2022-01-11T20:08:33.663Z" />
   </UpdateChannel>
   <UpdateChannel Name="Perpetual2021" ID="PerpetualVL2021" DisplayName="Office 2021 Perpetual Enterprise">
     <Update Latest="True" Version="LTSB2021" LegacyVersion="16.0.14332.20624" Build="14332.20624" PubTime="2024-01-09T14:15:46.893Z" />
@@ -89,7 +88,6 @@
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20281" Build="14332.20281" PubTime="2022-04-12T14:06:33.337Z" />
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20255" Build="14332.20255" PubTime="2022-03-08T14:13:36.797Z" />
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20238" Build="14332.20238" PubTime="2022-02-08T14:13:02.427Z" />
-    <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20216" Build="14332.20216" PubTime="2022-01-11T19:16:03.15Z" />
   </UpdateChannel>
   <UpdateChannel Name="MonthlyEnterprise" ID="MonthlyEnterprise" DisplayName="Monthly Enterprise Channel">
     <Update Latest="True" Version="2311" LegacyVersion="16.0.17029.20140" Build="17029.20140" PubTime="2024-01-09T21:59:52.427Z" />
