@@ -236,8 +236,8 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
-    "AvailableBuild": "16.0.17231.20182",
-    "ThrottleLevel": 250,
+    "AvailableBuild": "16.0.17231.20194",
+    "ThrottleLevel": 550,
     "LkgBuild": "16.0.17126.20132",
     "ExpiredBuilds": [
       "16.0.15330.20196"
@@ -245,7 +245,7 @@
     "ForkName": "2312-Dec",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2024-01-31T17:35:05.49",
+    "UpdatedTimeUtc": "2024-02-02T03:05:10.18",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -429,8 +429,8 @@
     "Order": 100,
     "FFN": "5440fd1f-7ecb-4221-8110-145efaa6372f",
     "AvailableBuild": "16.0.17328.20000",
-    "ThrottleLevel": 250,
-    "LkgBuild": "16.0.17318.20000",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17328.20000",
     "ExpiredBuilds": [
       "16.0.16327.20000",
       "16.0.16327.20038",
@@ -440,7 +440,7 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2024-01-31T16:40:18.71",
+    "UpdatedTimeUtc": "2024-02-01T17:00:13.467",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -658,7 +658,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1138544,
+    "Id": 1139694,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -706,7 +706,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1138545,
+    "Id": 1139695,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -2129,7 +2129,6 @@
     "ThrottleLevel": 1000,
     "LkgBuild": "16.0.17328.20004",
     "ExpiredBuilds": [
-      "16.0.14931.20000",
       "16.0.15028.20000",
       "16.0.15028.20006",
       "16.0.15028.20008",
@@ -2138,7 +2137,7 @@
     "ForkName": "2401-Jan",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2024-01-31T16:45:16.21",
+    "UpdatedTimeUtc": "2024-02-01T19:55:07.7",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
