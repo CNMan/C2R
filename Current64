@@ -114,6 +114,7 @@
 :[{
 Current
 Sha256
+a640_exp.cab
 architecture
 baseUrl
 channel
@@ -122,6 +123,7 @@ files
 hashAlgorithm
 hashLocation
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60
+http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.17231.20236/a640_exp.cab
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.17231.20236/i640.cab
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.17231.20236/i640.cab.cat
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.17231.20236/i641025.cab
