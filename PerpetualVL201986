@@ -111,7 +111,6 @@
 :[{
 PerpetualVL2019
 Sha256
-a320_exp.cab
 architecture
 baseUrl
 channel
@@ -120,7 +119,6 @@ files
 hashAlgorithm
 hashLocation
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208
-http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10407.20032/a320_exp.cab
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10407.20032/i320.cab
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10407.20032/i321025.cab
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10407.20032/i321026.cab
