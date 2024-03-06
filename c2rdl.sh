@@ -19,6 +19,8 @@ curl 'https://config.office.com/api/filelist?Channel=MonthlyEnterprise&Version=&
 curl 'https://config.office.com/api/filelist?Channel=MonthlyEnterprise&Version=&Arch=x86&AllLanguages=True' | sed 's/"/\n/g' | sort | uniq >MonthlyEnterprise86
 curl 'https://config.office.com/api/filelist?Channel=PerpetualVL2019&Version=&Arch=x64&AllLanguages=True' | sed 's/"/\n/g' | sort | uniq >PerpetualVL201964
 curl 'https://config.office.com/api/filelist?Channel=PerpetualVL2019&Version=&Arch=x86&AllLanguages=True' | sed 's/"/\n/g' | sort | uniq >PerpetualVL201986
+curl 'https://config.office.com/api/filelist?Channel=PerpetualVL2024&Version=&Arch=x64&AllLanguages=True' | sed 's/"/\n/g' | sort | uniq >PerpetualVL202464
+curl 'https://config.office.com/api/filelist?Channel=PerpetualVL2024&Version=&Arch=x86&AllLanguages=True' | sed 's/"/\n/g' | sort | uniq >PerpetualVL202486
 curl 'https://config.office.com/api/filelist?Channel=PerpetualVL2021&Version=&Arch=x64&AllLanguages=True' | sed 's/"/\n/g' | sort | uniq >PerpetualVL202164
 curl 'https://config.office.com/api/filelist?Channel=PerpetualVL2021&Version=&Arch=x86&AllLanguages=True' | sed 's/"/\n/g' | sort | uniq >PerpetualVL202186
 curl 'https://config.office.com/api/filelist?Channel=SemiAnnual&Version=&Arch=x64&AllLanguages=True' | sed 's/"/\n/g' | sort | uniq >SemiAnnual64
@@ -65,12 +67,15 @@ FFN30=B8F9B850-328D-4355-9145-C59439A0C4CF
 FFN31=9A3B7FF2-58ED-40FD-ADD5-1E5158059D1C
 FFN32=55336B82-A18D-4DD6-B5F6-9E5095C314A6
 FFN33=492350F6-3A01-4F97-B9C0-C7C6DDF67D60
-FFN34=64256AFE-F5D9-4F86-8936-8840A6A4F5BE
-FFN35=5462EEE5-1E97-495B-9370-853CD873BB07
-FFN36=F3260CF1-A92C-4C75-B02E-D64C0A86A968
-FFN37=5440FD1F-7ECB-4221-8110-145EFAA6372F
-FFN38=B61285DD-D9F7-41F2-9757-8F61CBA4E9C8
-FFN39=EA4A4090-DE26-49D7-93C1-91BFF9E53FC3
+FFN34=7983BAC0-E531-40CF-BE00-FD24FE66619C
+FFN35=C02D8FE6-5242-4DA8-972F-82EE55E00671
+FFN36=20481F5C-C268-4624-936C-52EB39DDBD97
+FFN37=64256AFE-F5D9-4F86-8936-8840A6A4F5BE
+FFN38=5462EEE5-1E97-495B-9370-853CD873BB07
+FFN39=F3260CF1-A92C-4C75-B02E-D64C0A86A968
+FFN40=5440FD1F-7ECB-4221-8110-145EFAA6372F
+FFN41=B61285DD-D9F7-41F2-9757-8F61CBA4E9C8
+FFN42=EA4A4090-DE26-49D7-93C1-91BFF9E53FC3
 
 wget -N -q -x https://$URL/$FFN01/$DIR/v64.cab
 wget -N -q -x https://$URL/$FFN02/$DIR/v64.cab
@@ -111,6 +116,9 @@ wget -N -q -x https://$URL/$FFN36/$DIR/v64.cab
 wget -N -q -x https://$URL/$FFN37/$DIR/v64.cab
 wget -N -q -x https://$URL/$FFN38/$DIR/v64.cab
 wget -N -q -x https://$URL/$FFN39/$DIR/v64.cab
+wget -N -q -x https://$URL/$FFN40/$DIR/v64.cab
+wget -N -q -x https://$URL/$FFN41/$DIR/v64.cab
+wget -N -q -x https://$URL/$FFN42/$DIR/v64.cab
 
 cd /root/githubrepo/C2R/$URL/$FFN01/$DIR/ && cabextract -q v64.cab
 cd /root/githubrepo/C2R/$URL/$FFN02/$DIR/ && cabextract -q v64.cab
@@ -151,6 +159,9 @@ cd /root/githubrepo/C2R/$URL/$FFN36/$DIR/ && cabextract -q v64.cab
 cd /root/githubrepo/C2R/$URL/$FFN37/$DIR/ && cabextract -q v64.cab
 cd /root/githubrepo/C2R/$URL/$FFN38/$DIR/ && cabextract -q v64.cab
 cd /root/githubrepo/C2R/$URL/$FFN39/$DIR/ && cabextract -q v64.cab
+cd /root/githubrepo/C2R/$URL/$FFN40/$DIR/ && cabextract -q v64.cab
+cd /root/githubrepo/C2R/$URL/$FFN41/$DIR/ && cabextract -q v64.cab
+cd /root/githubrepo/C2R/$URL/$FFN42/$DIR/ && cabextract -q v64.cab
 
 VER01=`grep Available /root/githubrepo/C2R/$URL/$FFN01/$DIR/VersionDescriptor.xml | awk -F "\"" '{print $2}'`
 VER02=`grep Available /root/githubrepo/C2R/$URL/$FFN02/$DIR/VersionDescriptor.xml | awk -F "\"" '{print $2}'`
@@ -191,6 +202,9 @@ VER36=`grep Available /root/githubrepo/C2R/$URL/$FFN36/$DIR/VersionDescriptor.xm
 VER37=`grep Available /root/githubrepo/C2R/$URL/$FFN37/$DIR/VersionDescriptor.xml | grep Default | awk -F "\"" '{print $4}'`
 VER38=`grep Available /root/githubrepo/C2R/$URL/$FFN38/$DIR/VersionDescriptor.xml | grep Default | awk -F "\"" '{print $4}'`
 VER39=`grep Available /root/githubrepo/C2R/$URL/$FFN39/$DIR/VersionDescriptor.xml | grep Default | awk -F "\"" '{print $4}'`
+VER40=`grep Available /root/githubrepo/C2R/$URL/$FFN40/$DIR/VersionDescriptor.xml | grep Default | awk -F "\"" '{print $4}'`
+VER41=`grep Available /root/githubrepo/C2R/$URL/$FFN41/$DIR/VersionDescriptor.xml | grep Default | awk -F "\"" '{print $4}'`
+VER42=`grep Available /root/githubrepo/C2R/$URL/$FFN42/$DIR/VersionDescriptor.xml | grep Default | awk -F "\"" '{print $4}'`
 
 TIME01=`stat --printf=%y /root/githubrepo/C2R/$URL/$FFN01/$DIR/v64.cab | awk -F "\." '{print $1}'`
 TIME02=`stat --printf=%y /root/githubrepo/C2R/$URL/$FFN02/$DIR/v64.cab | awk -F "\." '{print $1}'`
@@ -231,6 +245,9 @@ TIME36=`stat --printf=%y /root/githubrepo/C2R/$URL/$FFN36/$DIR/v64.cab | awk -F 
 TIME37=`stat --printf=%y /root/githubrepo/C2R/$URL/$FFN37/$DIR/v64.cab | awk -F "\." '{print $1}'`
 TIME38=`stat --printf=%y /root/githubrepo/C2R/$URL/$FFN38/$DIR/v64.cab | awk -F "\." '{print $1}'`
 TIME39=`stat --printf=%y /root/githubrepo/C2R/$URL/$FFN39/$DIR/v64.cab | awk -F "\." '{print $1}'`
+TIME40=`stat --printf=%y /root/githubrepo/C2R/$URL/$FFN40/$DIR/v64.cab | awk -F "\." '{print $1}'`
+TIME41=`stat --printf=%y /root/githubrepo/C2R/$URL/$FFN41/$DIR/v64.cab | awk -F "\." '{print $1}'`
+TIME42=`stat --printf=%y /root/githubrepo/C2R/$URL/$FFN42/$DIR/v64.cab | awk -F "\." '{print $1}'`
 
 cd /root/githubrepo/C2R
 echo "
@@ -287,12 +304,15 @@ echo "
 |$FFN31|$VER31|$TIME31|||Microsoft_FRDC|
 |$FFN32|$VER32|$TIME32|MonthlyEnterprise||Production_MEC|
 |$FFN33|$VER33|$TIME33|Current||Production_CC|
-|$FFN34|$VER34|$TIME34|CurrentPreview||Insiders_CC|
-|$FFN35|$VER35|$TIME35|||Microsoft_CC|
-|$FFN36|$VER36|$TIME36|||Dogfood_CC|
-|$FFN37|$VER37|$TIME37|||Insiders_DevMain|
-|$FFN38|$VER38|$TIME38|||Microsoft_DevMain|
-|$FFN39|$VER39|$TIME39|||Dogfood_DevMain|
+|$FFN34|$VER34|$TIME34|PerpetualVL2024||Production_LTSC2024|
+|$FFN35|$VER35|$TIME35|||Microsoft_LTSC2024|
+|$FFN36|$VER36|$TIME36|||Insiders_LTSC2024|
+|$FFN37|$VER37|$TIME37|CurrentPreview||Insiders_CC|
+|$FFN38|$VER38|$TIME38|||Microsoft_CC|
+|$FFN39|$VER39|$TIME39|||Dogfood_CC|
+|$FFN40|$VER40|$TIME40|||Insiders_DevMain|
+|$FFN41|$VER41|$TIME41|||Microsoft_DevMain|
+|$FFN42|$VER42|$TIME42|||Dogfood_DevMain|
 
 x86 32-Bit and x64 64-Bit Download Example:
 \`\`\`
