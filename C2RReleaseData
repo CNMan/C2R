@@ -1,0 +1,2247 @@
+[
+  {
+    "Id": 15,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "1d2d2ea6-1680-4c56-ac58-a441c8c24ff9",
+    "AvailableBuild": "16.0.10410.20003",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.10410.20003",
+    "ExpiredBuilds": [],
+    "ForkName": "LTSB2018",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-18T18:55:11.79",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 92546,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "2e148de9-61c8-4051-b103-4af54baffbb4",
+    "AvailableBuild": "16.0.10351.20054",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.10351.20054",
+    "ExpiredBuilds": [],
+    "ForkName": "LTSB2018",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2020-03-10T14:38:59.337",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 864699,
+    "Name": "CHPE",
+    "Order": 94,
+    "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
+    "AvailableBuild": "16.0.16924.20150",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.16924.20150",
+    "ExpiredBuilds": [
+      "16.0.14430.20276",
+      "16.0.15330.20196",
+      "16.0.17029.20068"
+    ],
+    "ForkName": "2301-Jan",
+    "BuildRank": 1,
+    "Type": "Custom",
+    "UpdatedTimeUtc": "2023-12-01T00:10:48.403",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [
+      "CHPE",
+      "EC"
+    ],
+    "OsVersions": [],
+    "OfficePlatforms": [
+      {
+        "OfficeBitness": "x86",
+        "OsArchitecture": "ARM64"
+      },
+      {
+        "OfficeBitness": "x64",
+        "OsArchitecture": "ARM64"
+      }
+    ],
+    "IsDefault": false
+  },
+  {
+    "Id": 92875,
+    "Name": "Win8",
+    "Order": 96,
+    "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
+    "AvailableBuild": "16.0.12730.20270",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12730.20270",
+    "ExpiredBuilds": [
+      "16.0.13029.20292"
+    ],
+    "ForkName": "2003-Mar",
+    "BuildRank": 1,
+    "Type": "Custom",
+    "UpdatedTimeUtc": "2020-05-29T20:45:06.81",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [
+      "HomeBusinessPipcRetail.16",
+      "O365BusinessRetail.16",
+      "O365EduCloudRetail.16",
+      "O365HomePremRetail.16",
+      "O365ProPlusRetail.16",
+      "O365SmallBusPremRetail.16",
+      "PersonalPipcRetail.16",
+      "ProfessionalPipcRetail.16"
+    ],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": null,
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.2",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      },
+      {
+        "Name": null,
+        "SkuType": "Server",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.2",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 841169,
+    "Name": "Win8.1",
+    "Order": 98,
+    "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
+    "AvailableBuild": "16.0.16026.20200",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.16026.20200",
+    "ExpiredBuilds": [],
+    "ForkName": "2212-Dec",
+    "BuildRank": 1,
+    "Type": "Custom Win8.1",
+    "UpdatedTimeUtc": "2023-02-17T04:07:40.407",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.3",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.3",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 3,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 3,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 32,
+    "Name": "Win7",
+    "Order": 99,
+    "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
+    "AvailableBuild": "16.0.12527.22286",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.22286",
+    "ExpiredBuilds": [],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom Win7",
+    "UpdatedTimeUtc": "2023-01-18T22:55:23.063",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.1",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.1",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 4,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
+    "AvailableBuild": "16.0.17531.20128",
+    "ThrottleLevel": 1,
+    "LkgBuild": "16.0.17425.20176",
+    "ExpiredBuilds": [
+      "16.0.15330.20196"
+    ],
+    "ForkName": "2403-Mar",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-05-01T22:50:21.127",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 132032,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "5030841d-c919-4594-8d2d-84ae4f96e58e",
+    "AvailableBuild": "16.0.14332.20685",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.14332.20685",
+    "ExpiredBuilds": [],
+    "ForkName": "LTSB2021",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-16T17:20:25.047",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 1055069,
+    "Name": "CHPE",
+    "Order": 97,
+    "FFN": "5440fd1f-7ecb-4221-8110-145efaa6372f",
+    "AvailableBuild": "16.0.17031.20000",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17031.20000",
+    "ExpiredBuilds": [
+      "16.0.14725.20000",
+      "16.0.16327.20000",
+      "16.0.16327.20038",
+      "16.0.17108.20000"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Custom",
+    "UpdatedTimeUtc": "2023-12-01T00:07:54.607",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [
+      "CHPE",
+      "EC"
+    ],
+    "OsVersions": [],
+    "OfficePlatforms": [
+      {
+        "OfficeBitness": "x86",
+        "OsArchitecture": "ARM64"
+      },
+      {
+        "OfficeBitness": "x64",
+        "OsArchitecture": "ARM64"
+      }
+    ],
+    "IsDefault": false
+  },
+  {
+    "Id": 93911,
+    "Name": "Win8",
+    "Order": 98,
+    "FFN": "5440fd1f-7ecb-4221-8110-145efaa6372f",
+    "AvailableBuild": "16.0.12730.20270",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12730.20270",
+    "ExpiredBuilds": [],
+    "ForkName": "2003-Mar",
+    "BuildRank": 1,
+    "Type": "Custom",
+    "UpdatedTimeUtc": "2021-01-22T23:02:03.697",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [
+      "HomeBusinessPipcRetail.16",
+      "O365BusinessRetail.16",
+      "O365EduCloudRetail.16",
+      "O365HomePremRetail.16",
+      "O365ProPlusRetail.16",
+      "O365SmallBusPremRetail.16",
+      "PersonalPipcRetail.16",
+      "ProfessionalPipcRetail.16"
+    ],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": null,
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.2",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      },
+      {
+        "Name": null,
+        "SkuType": "Server",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.2",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 25,
+    "Name": "Win7",
+    "Order": 99,
+    "FFN": "5440fd1f-7ecb-4221-8110-145efaa6372f",
+    "AvailableBuild": "16.0.12527.22286",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.22286",
+    "ExpiredBuilds": [],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom Win7",
+    "UpdatedTimeUtc": "2023-01-18T22:55:23.063",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.1",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.1",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 9,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "5440fd1f-7ecb-4221-8110-145efaa6372f",
+    "AvailableBuild": "16.0.17628.20006",
+    "ThrottleLevel": 250,
+    "LkgBuild": "16.0.17616.20002",
+    "ExpiredBuilds": [
+      "16.0.16327.20000",
+      "16.0.16327.20038",
+      "16.0.17108.20000",
+      "16.0.17217.20000",
+      "16.0.17503.20000"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-05-01T18:40:39.523",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 1079172,
+    "Name": "RDX Test",
+    "Order": 98,
+    "FFN": "5462eee5-1e97-495b-9370-853cd873bb07",
+    "AvailableBuild": "16.0.17126.20032",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17126.20032",
+    "ExpiredBuilds": [
+      "16.0.15028.20082",
+      "16.0.15330.20158",
+      "16.0.15330.20186",
+      "16.0.16327.20186",
+      "16.0.16529.20010",
+      "16.0.16529.20046",
+      "16.0.16626.20000",
+      "16.0.17126.20048"
+    ],
+    "ForkName": "2311-Nov",
+    "BuildRank": 1,
+    "Type": "Custom",
+    "UpdatedTimeUtc": "2023-12-11T21:17:50.567",
+    "OfficeTenantIds": [
+      "146a27c9-2d88-4314-a8f1-f9c5a1a28f1c"
+    ],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 92549,
+    "Name": "Win7",
+    "Order": 99,
+    "FFN": "5462eee5-1e97-495b-9370-853cd873bb07",
+    "AvailableBuild": "16.0.12527.20242",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.20242",
+    "ExpiredBuilds": [],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom Win7",
+    "UpdatedTimeUtc": "2020-03-10T12:43:23.113",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.1",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.1",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 3,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "5462eee5-1e97-495b-9370-853cd873bb07",
+    "AvailableBuild": "16.0.17628.20006",
+    "ThrottleLevel": 200,
+    "LkgBuild": "16.0.17531.20120",
+    "ExpiredBuilds": [
+      "16.0.15330.20158",
+      "16.0.15330.20186",
+      "16.0.16327.20186",
+      "16.0.16529.20010",
+      "16.0.16529.20046",
+      "16.0.16626.20000"
+    ],
+    "ForkName": "2404-Apr",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-05-01T20:40:23.767",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 841168,
+    "Name": "Win8.1",
+    "Order": 98,
+    "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
+    "AvailableBuild": "16.0.15928.20282",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.15928.20282",
+    "ExpiredBuilds": [],
+    "ForkName": "2211-Nov",
+    "BuildRank": 1,
+    "Type": "Custom Win8.1",
+    "UpdatedTimeUtc": "2023-02-15T00:13:29.71",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.3",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.3",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 3,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 3,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 477091,
+    "Name": "Win7",
+    "Order": 99,
+    "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
+    "AvailableBuild": "16.0.12527.22286",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.22286",
+    "ExpiredBuilds": [],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom Win7",
+    "UpdatedTimeUtc": "2023-01-18T22:55:23.063",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.1",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.1",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 477152,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
+    "AvailableBuild": "16.0.17328.20282",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17328.20282",
+    "ExpiredBuilds": [
+      "16.0.15225.20356",
+      "16.0.15330.20298"
+    ],
+    "ForkName": "2401-Jan",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-13T14:32:19.72",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 1209268,
+    "Name": "Default",
+    "Order": 110,
+    "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
+    "AvailableBuild": "16.0.17231.20304",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17231.20290",
+    "ExpiredBuilds": [
+      "16.0.15225.20356",
+      "16.0.15330.20298"
+    ],
+    "ForkName": "2312-Dec",
+    "BuildRank": 2,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-09T08:07:33.47",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 19,
+    "Name": "Default",
+    "Order": 111,
+    "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
+    "AvailableBuild": "16.0.17231.20290",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17231.20290",
+    "ExpiredBuilds": [
+      "16.0.15225.20356",
+      "16.0.15330.20298"
+    ],
+    "ForkName": "2312-Dec",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-03-16T14:15:18.733",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 1209269,
+    "Name": "Default",
+    "Order": 120,
+    "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
+    "AvailableBuild": "16.0.17126.20216",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17126.20190",
+    "ExpiredBuilds": [
+      "16.0.15225.20356",
+      "16.0.15330.20298"
+    ],
+    "ForkName": "2311-Nov",
+    "BuildRank": 2,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-03-12T08:13:13.343",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 21,
+    "Name": "Default",
+    "Order": 121,
+    "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
+    "AvailableBuild": "16.0.17126.20190",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17126.20190",
+    "ExpiredBuilds": [
+      "16.0.15225.20356",
+      "16.0.15330.20298"
+    ],
+    "ForkName": "2311-Nov",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-02-17T15:28:16.567",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 92873,
+    "Name": "Win8",
+    "Order": 97,
+    "FFN": "64256afe-f5d9-4f86-8936-8840a6a4f5be",
+    "AvailableBuild": "16.0.12730.20270",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12730.20270",
+    "ExpiredBuilds": [
+      "16.0.12827.20160",
+      "16.0.12827.20210"
+    ],
+    "ForkName": "2003-Mar",
+    "BuildRank": 1,
+    "Type": "Custom",
+    "UpdatedTimeUtc": "2020-05-22T18:07:06.81",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [
+      "HomeBusinessPipcRetail.16",
+      "O365BusinessRetail.16",
+      "O365EduCloudRetail.16",
+      "O365HomePremRetail.16",
+      "O365ProPlusRetail.16",
+      "O365SmallBusPremRetail.16",
+      "PersonalPipcRetail.16",
+      "ProfessionalPipcRetail.16"
+    ],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": null,
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.2",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      },
+      {
+        "Name": null,
+        "SkuType": "Server",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.2",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 842310,
+    "Name": "Win8.1",
+    "Order": 98,
+    "FFN": "64256afe-f5d9-4f86-8936-8840a6a4f5be",
+    "AvailableBuild": "16.0.16130.20156",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.16130.20156",
+    "ExpiredBuilds": [],
+    "ForkName": "2301-Jan",
+    "BuildRank": 1,
+    "Type": "Custom Win8.1",
+    "UpdatedTimeUtc": "2023-02-16T23:38:58.157",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.3",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.3",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 3,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 3,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 30,
+    "Name": "Win7",
+    "Order": 99,
+    "FFN": "64256afe-f5d9-4f86-8936-8840a6a4f5be",
+    "AvailableBuild": "16.0.12527.22286",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.22286",
+    "ExpiredBuilds": [],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom Win7",
+    "UpdatedTimeUtc": "2023-01-18T23:00:31.293",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.1",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.1",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 2,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "64256afe-f5d9-4f86-8936-8840a6a4f5be",
+    "AvailableBuild": "16.0.17531.20120",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17531.20120",
+    "ExpiredBuilds": [
+      "16.0.15330.20158",
+      "16.0.16327.20186",
+      "16.0.17531.20000"
+    ],
+    "ForkName": "2403-Mar",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-29T20:20:23.607",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 1170263,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "7983bac0-e531-40cf-be00-fd24fe66619c",
+    "AvailableBuild": "16.0.17531.20124",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17531.20124",
+    "ExpiredBuilds": [],
+    "ForkName": "LTSB2024",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-30T23:10:16.95",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 142,
+    "Name": "Win8.0",
+    "Order": 97,
+    "FFN": "7ffbc6bf-bc32-4f92-8982-f9dd17fd3114",
+    "AvailableBuild": "16.0.12527.21416",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.21416",
+    "ExpiredBuilds": [
+      "16.0.12624.20320",
+      "16.0.12624.20442",
+      "16.0.12624.20466",
+      "16.0.12624.20520",
+      "16.0.12624.30382"
+    ],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom",
+    "UpdatedTimeUtc": "2020-12-10T23:58:23.72",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [
+      "HomeBusinessPipcRetail.16",
+      "O365BusinessRetail.16",
+      "O365EduCloudRetail.16",
+      "O365HomePremRetail.16",
+      "O365ProPlusRetail.16",
+      "O365SmallBusPremRetail.16",
+      "PersonalPipcRetail.16",
+      "ProfessionalPipcRetail.16"
+    ],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": null,
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.2",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      },
+      {
+        "Name": null,
+        "SkuType": "Server",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.2",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 841202,
+    "Name": "Win8.1",
+    "Order": 98,
+    "FFN": "7ffbc6bf-bc32-4f92-8982-f9dd17fd3114",
+    "AvailableBuild": "16.0.15601.20538",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.15601.20538",
+    "ExpiredBuilds": [],
+    "ForkName": "2207-Jul",
+    "BuildRank": 1,
+    "Type": "Custom Win8.1",
+    "UpdatedTimeUtc": "2023-02-15T01:30:38.75",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.3",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.3",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 3,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 3,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 29,
+    "Name": "Win7",
+    "Order": 99,
+    "FFN": "7ffbc6bf-bc32-4f92-8982-f9dd17fd3114",
+    "AvailableBuild": "16.0.12527.22286",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.22286",
+    "ExpiredBuilds": [],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom Win7",
+    "UpdatedTimeUtc": "2023-01-18T23:00:31.293",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.1",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.1",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 6,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "7ffbc6bf-bc32-4f92-8982-f9dd17fd3114",
+    "AvailableBuild": "16.0.16731.20636",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.16731.20636",
+    "ExpiredBuilds": [],
+    "ForkName": "2307-Jul",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-22T14:45:16.97",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 92545,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "834504cc-dc55-4c6d-9e71-e024d0253f6d",
+    "AvailableBuild": "16.0.11929.20562",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.11929.20562",
+    "ExpiredBuilds": [],
+    "ForkName": "1907-Jul",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2020-03-05T20:54:15.927",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 107608,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "86752282-5841-4120-ac80-db03ae6b5fdb",
+    "AvailableBuild": "16.0.14332.20693",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.14332.20685",
+    "ExpiredBuilds": [],
+    "ForkName": "LTSB2021",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-18T17:55:10.987",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 139,
+    "Name": "Win8",
+    "Order": 98,
+    "FFN": "9a3b7ff2-58ed-40fd-add5-1e5158059d1c",
+    "AvailableBuild": "16.0.12527.20988",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.20988",
+    "ExpiredBuilds": [
+      "16.0.13127.20408",
+      "16.0.13127.20360"
+    ],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom",
+    "UpdatedTimeUtc": "2020-09-14T20:43:28.25",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [
+      "HomeBusinessPipcRetail.16",
+      "O365BusinessRetail.16",
+      "O365EduCloudRetail.16",
+      "O365HomePremRetail.16",
+      "O365ProPlusRetail.16",
+      "O365SmallBusPremRetail.16",
+      "PersonalPipcRetail.16",
+      "ProfessionalPipcRetail.16"
+    ],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": null,
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.2",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      },
+      {
+        "Name": null,
+        "SkuType": "Server",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.2",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 92550,
+    "Name": "Win7",
+    "Order": 99,
+    "FFN": "9a3b7ff2-58ed-40fd-add5-1e5158059d1c",
+    "AvailableBuild": "16.0.12527.20988",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.20988",
+    "ExpiredBuilds": [],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom Win7",
+    "UpdatedTimeUtc": "2020-08-11T08:55:10.38",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.1",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.1",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 13,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "9a3b7ff2-58ed-40fd-add5-1e5158059d1c",
+    "AvailableBuild": "16.0.17328.20282",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17328.20282",
+    "ExpiredBuilds": [],
+    "ForkName": "2401-Jan",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-09T08:10:09.307",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 1055060,
+    "Name": "ARM",
+    "Order": 98,
+    "FFN": "b61285dd-d9f7-41f2-9757-8f61cba4e9c8",
+    "AvailableBuild": "16.0.17102.20000",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17031.20000",
+    "ExpiredBuilds": [
+      "16.0.15112.20000",
+      "16.0.15418.20014",
+      "16.0.15716.20000",
+      "16.0.16324.20000",
+      "16.0.16901.20002",
+      "16.0.17116.20002",
+      "16.0.17115.20000",
+      "16.0.17112.20002",
+      "16.0.17113.20008",
+      "16.0.17108.20000"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Custom",
+    "UpdatedTimeUtc": "2023-11-20T20:17:23.623",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [
+      "CHPE",
+      "EC"
+    ],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 92551,
+    "Name": "Win7",
+    "Order": 99,
+    "FFN": "b61285dd-d9f7-41f2-9757-8f61cba4e9c8",
+    "AvailableBuild": "16.0.12513.20010",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12513.20010",
+    "ExpiredBuilds": [],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Custom Win7",
+    "UpdatedTimeUtc": "2020-03-10T12:39:06.02",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.1",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.1",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 10,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "b61285dd-d9f7-41f2-9757-8f61cba4e9c8",
+    "AvailableBuild": "16.0.17628.20000",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17628.20000",
+    "ExpiredBuilds": [
+      "16.0.15418.20014",
+      "16.0.15716.20000",
+      "16.0.16324.20000",
+      "16.0.16901.20002"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-05-01T09:50:18.983",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 140,
+    "Name": "Win8",
+    "Order": 97,
+    "FFN": "b8f9b850-328d-4355-9145-c59439a0c4cf",
+    "AvailableBuild": "16.0.12527.20988",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.20988",
+    "ExpiredBuilds": [
+      "16.0.13127.20408"
+    ],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom",
+    "UpdatedTimeUtc": "2020-09-18T18:22:35.22",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [
+      "HomeBusinessPipcRetail.16",
+      "O365BusinessRetail.16",
+      "O365EduCloudRetail.16",
+      "O365HomePremRetail.16",
+      "O365ProPlusRetail.16",
+      "O365SmallBusPremRetail.16",
+      "PersonalPipcRetail.16",
+      "ProfessionalPipcRetail.16"
+    ],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": null,
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.2",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      },
+      {
+        "Name": null,
+        "SkuType": "Server",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.2",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 2,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 841203,
+    "Name": "Win8.1",
+    "Order": 98,
+    "FFN": "b8f9b850-328d-4355-9145-c59439a0c4cf",
+    "AvailableBuild": "16.0.15601.20538",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.15601.20538",
+    "ExpiredBuilds": [],
+    "ForkName": "2207-Jul",
+    "BuildRank": 1,
+    "Type": "Custom Win8.1",
+    "UpdatedTimeUtc": "2023-02-15T01:30:38.937",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.3",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.3",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 3,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 3,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 27,
+    "Name": "Win7",
+    "Order": 99,
+    "FFN": "b8f9b850-328d-4355-9145-c59439a0c4cf",
+    "AvailableBuild": "16.0.12527.22286",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.22286",
+    "ExpiredBuilds": [],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom Win7",
+    "UpdatedTimeUtc": "2023-01-18T22:55:23.063",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.1",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.1",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 12,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "b8f9b850-328d-4355-9145-c59439a0c4cf",
+    "AvailableBuild": "16.0.17328.20282",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17328.20282",
+    "ExpiredBuilds": [],
+    "ForkName": "2401-Jan",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-15T14:45:20.983",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 92872,
+    "Name": null,
+    "Order": 94,
+    "FFN": "badbadba-dbad-badb-adba-badbadbadbad",
+    "AvailableBuild": "16.0.1234.7",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.1111.1000",
+    "ExpiredBuilds": [
+      "16.0.1234.3000",
+      " 16.0.1234.2000"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Argus",
+    "UpdatedTimeUtc": "2017-06-22T16:29:53.21",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Win 10 RS3",
+        "SkuType": "Client",
+        "MinBuild": 1000,
+        "MaxBuild": 2000,
+        "MajorMinorVersion": "10.0",
+        "MinResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 1000,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 2000,
+          "_Revision": 0
+        }
+      },
+      {
+        "Name": "Server 12.0",
+        "SkuType": "Client",
+        "MinBuild": 1000,
+        "MaxBuild": 2000,
+        "MajorMinorVersion": "12.0",
+        "MinResolvedVersion": {
+          "_Major": 12,
+          "_Minor": 0,
+          "_Build": 1000,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 12,
+          "_Minor": 0,
+          "_Build": 2000,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 92871,
+    "Name": null,
+    "Order": 95,
+    "FFN": "badbadba-dbad-badb-adba-badbadbadbad",
+    "AvailableBuild": "16.0.1234.6",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.1111.1000",
+    "ExpiredBuilds": [
+      "16.0.1234.3000",
+      " 16.0.1234.2000"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Argus",
+    "UpdatedTimeUtc": "2017-06-22T15:41:32.277",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|10.0",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "10.0",
+        "MinResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      },
+      {
+        "Name": "Server|12.0",
+        "SkuType": "Server",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "12.0",
+        "MinResolvedVersion": {
+          "_Major": 12,
+          "_Minor": 0,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 12,
+          "_Minor": 0,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 92870,
+    "Name": null,
+    "Order": 96,
+    "FFN": "badbadba-dbad-badb-adba-badbadbadbad",
+    "AvailableBuild": "16.0.1234.5",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.1111.1000",
+    "ExpiredBuilds": [
+      "16.0.1234.3000",
+      " 16.0.1234.2000"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Argus",
+    "UpdatedTimeUtc": "2017-06-22T15:41:32.277",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [
+      "x64",
+      "x86"
+    ],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 92869,
+    "Name": null,
+    "Order": 97,
+    "FFN": "badbadba-dbad-badb-adba-badbadbadbad",
+    "AvailableBuild": "16.0.1234.4",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.1111.1000",
+    "ExpiredBuilds": [
+      "16.0.1234.3000",
+      " 16.0.1234.2000"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Argus",
+    "UpdatedTimeUtc": "2017-06-22T15:41:32.277",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [
+      "en-us",
+      "es-es"
+    ],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 92868,
+    "Name": null,
+    "Order": 98,
+    "FFN": "badbadba-dbad-badb-adba-badbadbadbad",
+    "AvailableBuild": "16.0.1234.3",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.1111.1000",
+    "ExpiredBuilds": [
+      "16.0.1234.3000",
+      " 16.0.1234.2000"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Argus",
+    "UpdatedTimeUtc": "2017-06-22T15:41:32.277",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [
+      "Word",
+      "Excel"
+    ],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 92867,
+    "Name": null,
+    "Order": 99,
+    "FFN": "badbadba-dbad-badb-adba-badbadbadbad",
+    "AvailableBuild": "16.0.1234.2",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.1111.1000",
+    "ExpiredBuilds": [
+      "16.0.1234.3000",
+      " 16.0.1234.2000"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Argus",
+    "UpdatedTimeUtc": "2017-06-22T15:41:32.277",
+    "OfficeTenantIds": [
+      "badbadba-dbad-badb-adba-badbadbadbad"
+    ],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 92897,
+    "Name": null,
+    "Order": 100,
+    "FFN": "badbadba-dbad-badb-adba-badbadbadbad",
+    "AvailableBuild": "16.0.1234.1",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.1111.1000",
+    "ExpiredBuilds": [
+      "16.0.1234.3000",
+      " 16.0.1234.2000"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Argus",
+    "UpdatedTimeUtc": "2017-06-22T15:41:32.277",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 1170262,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "c02d8fe6-5242-4da8-972f-82ee55e00671",
+    "AvailableBuild": "16.0.17531.20124",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17531.20124",
+    "ExpiredBuilds": [],
+    "ForkName": "LTSB2024",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-30T23:10:16.95",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 7,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "c4a7726f-06ea-48e2-a13a-9d78849eb706",
+    "AvailableBuild": "16.0.14931.20888",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.14931.20888",
+    "ExpiredBuilds": [],
+    "ForkName": "2201-Jan",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2023-01-11T18:10:13.543",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 1055047,
+    "Name": "CHPE",
+    "Order": 97,
+    "FFN": "ea4a4090-de26-49d7-93c1-91bff9e53fc3",
+    "AvailableBuild": "16.0.17206.20000",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17206.20000",
+    "ExpiredBuilds": [
+      "16.0.8201.2129",
+      "16.0.9226.2063",
+      "16.0.15028.20000",
+      "16.0.15418.20008",
+      "16.0.15418.20014",
+      "16.0.15420.20014",
+      "16.0.15612.20000",
+      "16.0.15626.20000",
+      "16.0.15627.20006",
+      "16.0.15629.20002",
+      "16.0.15714.20002",
+      "16.0.15716.20000",
+      "16.0.15717.20000",
+      "16.0.15719.20000",
+      "16.0.15730.20000",
+      "16.0.15801.20000",
+      "16.0.15803.20000",
+      "16.0.15827.20000",
+      "16.0.15828.20000",
+      "16.0.15908.20002",
+      "16.0.15910.20000",
+      "16.0.16119.20000",
+      "16.0.16120.20000",
+      "16.0.16208.20002",
+      "16.0.16209.20000",
+      "16.0.16404.20002",
+      "16.0.16620.20000",
+      "16.0.16713.20002",
+      "16.0.16901.20002",
+      "16.0.16902.20000",
+      "16.0.16903.20000",
+      "16.0.17104.20000",
+      "16.0.17105.20000",
+      "16.0.17116.20002",
+      "16.0.17115.20000",
+      "16.0.17114.20002",
+      "16.0.17113.20008",
+      "16.0.17112.20002",
+      "16.0.17111.20000",
+      "16.0.17109.20000",
+      "16.0.17110.20000",
+      "16.0.17108.20000",
+      "16.0.17212.20004",
+      "16.0.17210.20000",
+      "16.0.17209.20000",
+      "16.0.17208.20002",
+      "16.0.17207.20004"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Custom",
+    "UpdatedTimeUtc": "2023-12-13T20:07:50.8",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [
+      "CHPE",
+      "EC"
+    ],
+    "OsVersions": [],
+    "OfficePlatforms": [
+      {
+        "OfficeBitness": "x86",
+        "OsArchitecture": "ARM64"
+      },
+      {
+        "OfficeBitness": "x64",
+        "OsArchitecture": "ARM64"
+      }
+    ],
+    "IsDefault": false
+  },
+  {
+    "Id": 837641,
+    "Name": "Win8.1",
+    "Order": 98,
+    "FFN": "ea4a4090-de26-49d7-93c1-91bff9e53fc3",
+    "AvailableBuild": "16.0.16207.20000",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.16207.20000",
+    "ExpiredBuilds": [],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Custom Win8.1",
+    "UpdatedTimeUtc": "2023-02-08T21:08:48.723",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.3",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.3",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 3,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 3,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 89938,
+    "Name": "Win7",
+    "Order": 99,
+    "FFN": "ea4a4090-de26-49d7-93c1-91bff9e53fc3",
+    "AvailableBuild": "16.0.12525.20000",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12525.20000",
+    "ExpiredBuilds": [],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Custom Win7",
+    "UpdatedTimeUtc": "2020-01-27T22:22:59.743",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.1",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.1",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 8,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "ea4a4090-de26-49d7-93c1-91bff9e53fc3",
+    "AvailableBuild": "16.0.17630.20000",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17628.20000",
+    "ExpiredBuilds": [
+      "16.0.15418.20008",
+      "16.0.15418.20014",
+      "16.0.15420.20014",
+      "16.0.15612.20000",
+      "16.0.15626.20000",
+      "16.0.15627.20006",
+      "16.0.15629.20002",
+      "16.0.15714.20002",
+      "16.0.15716.20000",
+      "16.0.15717.20000",
+      "16.0.15719.20000",
+      "16.0.15730.20000",
+      "16.0.15801.20000",
+      "16.0.15803.20000",
+      "16.0.15827.20000",
+      "16.0.15828.20000",
+      "16.0.15908.20002",
+      "16.0.15910.20000",
+      "16.0.16119.20000",
+      "16.0.16120.20000",
+      "16.0.16208.20002",
+      "16.0.16209.20000",
+      "16.0.16404.20002",
+      "16.0.16620.20000",
+      "16.0.16713.20002",
+      "16.0.16901.20002",
+      "16.0.16902.20000",
+      "16.0.16903.20000",
+      "16.0.17104.20000",
+      "16.0.17105.20000"
+    ],
+    "ForkName": "Main",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-05-01T21:20:16.503",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 16,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "f2e724c1-748f-4b47-8fb8-8e0d210e9208",
+    "AvailableBuild": "16.0.10409.20028",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.10409.20028",
+    "ExpiredBuilds": [],
+    "ForkName": "LTSB2018",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-16T17:25:14.62",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 92552,
+    "Name": "Win7",
+    "Order": 99,
+    "FFN": "f3260cf1-a92c-4c75-b02e-d64c0a86a968",
+    "AvailableBuild": "16.0.12527.20194",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.20194",
+    "ExpiredBuilds": [],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom Win7",
+    "UpdatedTimeUtc": "2020-03-01T23:49:05.697",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.1",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.1",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 1,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "f3260cf1-a92c-4c75-b02e-d64c0a86a968",
+    "AvailableBuild": "16.0.17628.20012",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17628.20006",
+    "ExpiredBuilds": [
+      "16.0.15831.20014"
+    ],
+    "ForkName": "2404-Apr",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-05-02T05:55:21.817",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  },
+  {
+    "Id": 23,
+    "Name": "Win7",
+    "Order": 99,
+    "FFN": "f4f024c8-d611-4748-a7e0-02b6e754c0fe",
+    "AvailableBuild": "16.0.12527.21416",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.12527.21416",
+    "ExpiredBuilds": [],
+    "ForkName": "2001-Jan",
+    "BuildRank": 1,
+    "Type": "Custom Win7",
+    "UpdatedTimeUtc": "2020-12-08T11:04:31.34",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Client|6.1",
+        "SkuType": "Client",
+        "MinBuild": 0,
+        "MaxBuild": 2147483647,
+        "MajorMinorVersion": "6.1",
+        "MinResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 0,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 6,
+          "_Minor": 1,
+          "_Build": 2147483647,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDefault": false
+  },
+  {
+    "Id": 5,
+    "Name": "Default",
+    "Order": 100,
+    "FFN": "f4f024c8-d611-4748-a7e0-02b6e754c0fe",
+    "AvailableBuild": "16.0.16731.20636",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.16731.20636",
+    "ExpiredBuilds": [],
+    "ForkName": "2307-Jul",
+    "BuildRank": 1,
+    "Type": "Default",
+    "UpdatedTimeUtc": "2024-04-10T22:15:13.593",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDefault": true
+  }
+]

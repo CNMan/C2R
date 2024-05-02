@@ -1,0 +1,17 @@
+<Version>
+  <Available Build="16.0.3327.1020" I320Hash="BF60F75D33C3C5D564A1F28888CF33F3" I640Hash="733DF046C13B6BFF23923FAACE1ADB74" />
+  <SecurityFixes LastBuild="" />
+  <Throttle Value="1000" />
+  <RequiredClientVersion Build="15.0.4446.1000" />
+  <Prereq>
+    <MinOSVersion Build="6.1.0|6.2.0" FailMessage="NoMinOS" />
+    <SxS64 NonBlocking="002A|0116|0043|0021|00A4|0070" MustBlock="003F" OnDemand="False" FailMessage="SxS64Block" />
+    <SxS32 NonBlocking="002A|0116|0043|0021|00A4|0070" MustBlock="003F" OnDemand="False" FailMessage="SxS32Block" />
+    <PreRelease Build="15.0.4419.1000" OnDemand="False" FailMessage="PreReleaseFound" />
+    <MinClientVersion Build="15.0.4446.1000" FailMessage="ClientUpdateRequired" />
+    <MinBootstrapperVersion Build="16.0.0.0" FailMessage="NewBootstrapperRequired" />
+    <DiskSpace SysDrive="50000000" OnDemand="False" FailMessage="NoDiskSpace" />
+    <DiskSpace UserDrive="100000000" ClickToRun="False" FailMessage="NoDiskSpace" />
+    <VirtualEnvironment FailMessage="NoVirtualEnvironment" />
+  </Prereq>
+</Version>
