@@ -465,8 +465,8 @@
     "Order": 100,
     "FFN": "5440fd1f-7ecb-4221-8110-145efaa6372f",
     "AvailableBuild": "16.0.17715.20000",
-    "ThrottleLevel": 250,
-    "LkgBuild": "16.0.17630.20000",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17715.20000",
     "ExpiredBuilds": [
       "16.0.16327.20000",
       "16.0.16327.20038",
@@ -477,7 +477,7 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2024-05-17T16:50:30.633",
+    "UpdatedTimeUtc": "2024-05-18T14:10:25.277",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -675,8 +675,8 @@
     "Order": 100,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
     "AvailableBuild": "16.0.17425.20236",
-    "ThrottleLevel": 550,
-    "LkgBuild": "16.0.17328.20282",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.17425.20236",
     "ExpiredBuilds": [
       "16.0.15225.20356",
       "16.0.15330.20298"
@@ -684,7 +684,7 @@
     "ForkName": "2402-Feb",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2024-05-17T15:00:32.4",
+    "UpdatedTimeUtc": "2024-05-18T14:33:30.84",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -694,7 +694,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1218498,
+    "Id": 1219074,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -742,7 +742,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1218499,
+    "Id": 1219075,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1152,13 +1152,13 @@
     "Order": 100,
     "FFN": "7ffbc6bf-bc32-4f92-8982-f9dd17fd3114",
     "AvailableBuild": "16.0.16731.20674",
-    "ThrottleLevel": 50,
+    "ThrottleLevel": 100,
     "LkgBuild": "16.0.16731.20636",
     "ExpiredBuilds": [],
     "ForkName": "2307-Jul",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2024-05-17T15:00:30.713",
+    "UpdatedTimeUtc": "2024-05-18T14:35:12.437",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
