@@ -1,0 +1,36 @@
+<Version>
+  <Available Build="15.0.5603.1000" />
+  <SecurityFixes LastBuild="" />
+  <Throttle Value="1000" />
+  <RequiredClientVersion Build="15.0.4446.1000" />
+  <Prereq>
+    <MinOSVersion Build="6.1.0|6.2.0" FailMessage="NoMinOS" />
+    <SxS64 NonBlocking="002A|0116|0043|0021|00A4|0070" MustBlock="003F" OnDemand="False" FailMessage="SxS64Block" />
+    <SxS32 NonBlocking="002A|0116|0043|0021|00A4|0070" MustBlock="003F" OnDemand="False" FailMessage="SxS32Block" />
+    <PreRelease Build="15.0.4419.1000" OnDemand="False" FailMessage="PreReleaseFound" />
+    <MinClientVersion Build="15.0.4446.1000" FailMessage="ClientUpdateRequired" />
+    <MinBootstrapperVersion Build="15.0.0.0" FailMessage="NewBootstrapperRequired" />
+    <DiskSpace SysDrive="100000000" OnDemand="False" FailMessage="NoDiskSpace" />
+    <DiskSpace UserDrive="100000000" ClickToRun="False" FailMessage="NoDiskSpace" />
+    <VirtualEnvironment FailMessage="NoVirtualEnvironment" />
+    <C2RMSISxS BlockRMJ="15" MSIBlockingProducts="0011|0012|0051|0053|003B|003A|012D|012C|001A|00BA|0015" FailMessage="C2RIncompatibleWithMSI" />
+  </Prereq>
+  <Upgrade MajorVersion="16" RequiredMinCurrentClientVersion="15.0.0.0" ThrottleValue="1000" URL="http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60" MinTargetVersionSupportingSxS="16.0.7329.1000">
+    <UpgradeSKUs>
+      <AllowedUpgrade CurrentID="O365HomePremRetail" TargetID="O365HomePremRetail" SupportsSxSUpgrade="True" />
+      <AllowedUpgrade CurrentID="OneNoteFreeRetail" TargetID="OneNoteFreeRetail" StandaloneUpgrade="False" SupportsSxSUpgrade="True" />
+      <AllowedUpgrade CurrentID="O365ProPlusRetail" TargetID="O365ProPlusRetail" SupportsSxSUpgrade="True" URL="http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114" />
+      <AllowedUpgrade CurrentID="O365SmallBusPremRetail" TargetID="O365SmallBusPremRetail" SupportsSxSUpgrade="True" />
+      <AllowedUpgrade CurrentID="O365BusinessRetail" TargetID="O365BusinessRetail" SupportsSxSUpgrade="True" />
+      <AllowedUpgrade CurrentID="ProfessionalPipcRetail" TargetID="ProfessionalPipcRetail" SupportsSxSUpgrade="True" />
+      <AllowedUpgrade CurrentID="HomeBusinessPipcRetail" TargetID="HomeBusinessPipcRetail" SupportsSxSUpgrade="True" />
+      <AllowedUpgrade CurrentID="PersonalPipcRetail" TargetID="PersonalPipcRetail" SupportsSxSUpgrade="True" />
+      <AllowedUpgrade CurrentID="LyncEntryRetail" TargetID="LyncEntryRetail" StandaloneUpgrade="False" SupportsSxSUpgrade="True" />
+      <SubscriptionOnlyUpgrade CurrentID="VisioProRetail" TargetID="VisioProRetail" SupportsSxSUpgrade="True" />
+      <SubscriptionOnlyUpgrade CurrentID="ProjectProRetail" TargetID="ProjectProRetail" SupportsSxSUpgrade="True" />
+    </UpgradeSKUs>
+    <Cultures>
+      <CultureTransition CurrentID="sr-latn-cs" TargetID="sr-latn-rs" />
+    </Cultures>
+  </Upgrade>
+</Version>
