@@ -563,7 +563,7 @@
     "Order": 100,
     "FFN": "5462eee5-1e97-495b-9370-853cd873bb07",
     "AvailableBuild": "16.0.17830.20118",
-    "ThrottleLevel": 200,
+    "ThrottleLevel": 1000,
     "LkgBuild": "16.0.17830.20094",
     "ExpiredBuilds": [
       "16.0.16327.20186",
@@ -574,7 +574,7 @@
     "ForkName": "2406-Jun",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2024-07-26T22:50:16.393",
+    "UpdatedTimeUtc": "2024-07-27T19:15:15.36",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -690,7 +690,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1258363,
+    "Id": 1258939,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -738,7 +738,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1258364,
+    "Id": 1258940,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1420,7 +1420,7 @@
     "Order": 100,
     "FFN": "b61285dd-d9f7-41f2-9757-8f61cba4e9c8",
     "AvailableBuild": "16.0.17924.20000",
-    "ThrottleLevel": 200,
+    "ThrottleLevel": 1000,
     "LkgBuild": "16.0.17920.20000",
     "ExpiredBuilds": [
       "16.0.15716.20000",
@@ -1432,7 +1432,7 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2024-07-26T23:15:13.477",
+    "UpdatedTimeUtc": "2024-07-27T19:35:13.67",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2204,7 +2204,7 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "f3260cf1-a92c-4c75-b02e-d64c0a86a968",
-    "AvailableBuild": "16.0.17830.20120",
+    "AvailableBuild": "16.0.17830.20124",
     "ThrottleLevel": 1000,
     "LkgBuild": "16.0.17830.20118",
     "ExpiredBuilds": [
@@ -2213,7 +2213,7 @@
     "ForkName": "2406-Jun",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2024-07-27T01:25:09.603",
+    "UpdatedTimeUtc": "2024-07-28T05:10:17.877",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
