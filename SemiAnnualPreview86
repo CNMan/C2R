@@ -114,6 +114,8 @@
 :[{
 SemiAnnualPreview
 Sha256
+a320_exp.cab
+a640_exp.cab
 architecture
 baseUrl
 channel
@@ -122,6 +124,8 @@ files
 hashAlgorithm
 hashLocation
 http://officecdn.microsoft.com/pr/b8f9b850-328d-4355-9145-c59439a0c4cf
+http://officecdn.microsoft.com/pr/b8f9b850-328d-4355-9145-c59439a0c4cf/office/data/16.0.17328.20452/a320_exp.cab
+http://officecdn.microsoft.com/pr/b8f9b850-328d-4355-9145-c59439a0c4cf/office/data/16.0.17328.20452/a640_exp.cab
 http://officecdn.microsoft.com/pr/b8f9b850-328d-4355-9145-c59439a0c4cf/office/data/16.0.17328.20452/i320.cab
 http://officecdn.microsoft.com/pr/b8f9b850-328d-4355-9145-c59439a0c4cf/office/data/16.0.17328.20452/i320.cab.cat
 http://officecdn.microsoft.com/pr/b8f9b850-328d-4355-9145-c59439a0c4cf/office/data/16.0.17328.20452/i321025.cab
