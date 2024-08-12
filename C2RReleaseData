@@ -637,9 +637,7 @@
     "AvailableBuild": "16.0.17628.20188",
     "ThrottleLevel": 1000,
     "LkgBuild": "16.0.17628.20188",
-    "ExpiredBuilds": [
-      "16.0.15330.20298"
-    ],
+    "ExpiredBuilds": [],
     "ForkName": "2404-Apr",
     "BuildRank": 1,
     "Type": "Default",
@@ -653,16 +651,14 @@
     "IsDefault": true
   },
   {
-    "Id": 1267015,
+    "Id": 1267591,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
     "AvailableBuild": "16.0.17531.20210",
     "ThrottleLevel": 1000,
     "LkgBuild": "16.0.17531.20190",
-    "ExpiredBuilds": [
-      "16.0.15330.20298"
-    ],
+    "ExpiredBuilds": [],
     "ForkName": "2403-Mar",
     "BuildRank": 2,
     "Type": "Default",
@@ -683,9 +679,7 @@
     "AvailableBuild": "16.0.17531.20190",
     "ThrottleLevel": 1000,
     "LkgBuild": "16.0.17531.20190",
-    "ExpiredBuilds": [
-      "16.0.15330.20298"
-    ],
+    "ExpiredBuilds": [],
     "ForkName": "2403-Mar",
     "BuildRank": 1,
     "Type": "Default",
@@ -699,16 +693,14 @@
     "IsDefault": true
   },
   {
-    "Id": 1267016,
+    "Id": 1267592,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
     "AvailableBuild": "16.0.17425.20258",
     "ThrottleLevel": 1000,
     "LkgBuild": "16.0.17425.20236",
-    "ExpiredBuilds": [
-      "16.0.15330.20298"
-    ],
+    "ExpiredBuilds": [],
     "ForkName": "2402-Feb",
     "BuildRank": 2,
     "Type": "Default",
@@ -729,9 +721,7 @@
     "AvailableBuild": "16.0.17425.20236",
     "ThrottleLevel": 1000,
     "LkgBuild": "16.0.17425.20236",
-    "ExpiredBuilds": [
-      "16.0.15330.20298"
-    ],
+    "ExpiredBuilds": [],
     "ForkName": "2402-Feb",
     "BuildRank": 1,
     "Type": "Default",
@@ -2163,7 +2153,7 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "f3260cf1-a92c-4c75-b02e-d64c0a86a968",
-    "AvailableBuild": "16.0.17928.20056",
+    "AvailableBuild": "16.0.17928.20060",
     "ThrottleLevel": 1000,
     "LkgBuild": "16.0.17928.20046",
     "ExpiredBuilds": [
@@ -2172,7 +2162,7 @@
     "ForkName": "2407-Jul",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2024-08-11T05:20:12.153",
+    "UpdatedTimeUtc": "2024-08-12T03:40:06.863",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
