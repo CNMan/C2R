@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Version>
-  <Available Build="16.0.17830.20142" I320Hash="519671B9C7E45183F7C52196ECE7F016" I640Hash="56C2C09492D7F3F8372FD1BF83D66DB3" I320Version="16.0.17830.20142" I640Version="16.0.17830.20142" />
+  <Available Build="16.0.17932.20042" I320Hash="236A7F5761DDF418CDA464915C215CFC" I640Hash="F8991C4C79EA722F2BC934FAF4ACF9AA" I320Version="16.0.17932.20042" I640Version="16.0.17932.20042" />
   <SecurityFixes LastBuild="" />
   <RequiredClientVersion Build="15.0.4446.1000" />
   <MinUpgradeBuild Build="16.0.0.0" />
@@ -152,7 +152,7 @@
         <MinOSVersion Build="10.0" FailMessage="NoMinOS" />
       </PreReq>
     </ProductReleaseId>
-    <ProductReleaseId Name="HomeStudent2024Retail">
+    <ProductReleaseId Name="Home2024Retail">
       <PreReq>
         <MinOSVersion Build="10.0" FailMessage="NoMinOS" />
       </PreReq>
@@ -750,10 +750,10 @@
   </ProductReleaseIds>
   <DeliveryMechanism FFNRoot="7983BAC0-E531-40CF-BE00-FD24FE66619C" />
   <AvailableBuilds>
-    <AvailableBuild RestrictionType="Default" Version="16.0.17830.20142" />
+    <AvailableBuild RestrictionType="Default" Version="16.0.17932.20042" />
   </AvailableBuilds>
   <Throttle Value="1000" />
-  <LKG Value="16.0.17830.20142" />
-  <CreatedTimeUtc Value="08/05/2024 23:20" />
+  <LKG Value="16.0.17932.20042" />
+  <CreatedTimeUtc Value="08/13/2024 23:20" />
   <ExpiredBuilds />
 </Version>
