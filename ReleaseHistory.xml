@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ReleaseHistory PublishedDate="09/15/2024 14:22">
+<ReleaseHistory PublishedDate="09/17/2024 03:22">
   <UpdateChannel Name="InsiderSlow" ID="CurrentPreview" DisplayName="Current Channel (Preview)">
-    <Update Latest="True" Version="2409" LegacyVersion="16.0.18025.20030" Build="18025.20030" PubTime="2024-09-09T17:56:04.423Z" />
-    <Update Latest="False" Version="2409" LegacyVersion="16.0.18025.20024" Build="18025.20024" PubTime="2024-09-03T21:53:59.32Z" />
+    <Update Latest="True" Version="2409" LegacyVersion="16.0.18025.20058" Build="18025.20058" PubTime="2024-09-16T23:27:14.033Z" />
+    <Update Latest="False" Version="2409" LegacyVersion="16.0.18025.20030" Build="18025.20030" PubTime="2024-09-09T17:56:04.423Z" />
   </UpdateChannel>
   <UpdateChannel Name="Current" ID="Current" DisplayName="Current Channel">
     <Update Latest="True" Version="2408" LegacyVersion="16.0.17928.20156" Build="17928.20156" PubTime="2024-09-10T13:23:05.807Z" />
@@ -81,7 +81,8 @@
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20400" Build="14332.20400" PubTime="2022-10-11T13:12:33.413Z" />
   </UpdateChannel>
   <UpdateChannel Name="Perpetual2024" ID="PerpetualVL2024" DisplayName="Office 2024 Perpetual Enterprise">
-    <Update Latest="True" Version="LTSB2024" LegacyVersion="16.0.17932.20084" Build="17932.20084" PubTime="2024-09-10T16:55:13.21Z" />
+    <Update Latest="True" Version="LTSB2024" LegacyVersion="16.0.17932.20114" Build="17932.20114" PubTime="2024-09-16T21:28:59.563Z" />
+    <Update Latest="False" Version="LTSB2024" LegacyVersion="16.0.17932.20084" Build="17932.20084" PubTime="2024-09-10T16:55:13.21Z" />
     <Update Latest="False" Version="LTSB2024" LegacyVersion="16.0.17932.20076" Build="17932.20076" PubTime="2024-08-27T18:40:25.347Z" />
     <Update Latest="False" Version="LTSB2024" LegacyVersion="16.0.17932.20058" Build="17932.20058" PubTime="2024-08-20T20:14:41.337Z" />
     <Update Latest="False" Version="LTSB2024" LegacyVersion="16.0.17932.20042" Build="17932.20042" PubTime="2024-08-13T17:59:58.927Z" />
