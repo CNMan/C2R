@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Version>
-  <Available Build="16.0.12527.20194" I320Hash="6E6ADC23F0ADE1A7F1F8BF357D409D0D" I640Hash="368239043440BCFEF4265DEA37298682" I320Version="16.0.18129.20014" I640Version="16.0.18129.20014" />
+  <Available Build="16.0.12527.20194" I320Hash="91E2EB33182A998AEF306E67882C2D72" I640Hash="EED8A142ED306C90337AD858839E3A48" I320Version="16.0.18129.20016" I640Version="16.0.18129.20016" />
   <SecurityFixes LastBuild="" />
   <RequiredClientVersion Build="15.0.4446.1000" />
   <MinUpgradeBuild Build="16.0.0.0" />
@@ -750,12 +750,12 @@
   </ProductReleaseIds>
   <DeliveryMechanism FFNRoot="f3260cf1-a92c-4c75-b02e-d64c0a86a968" />
   <AvailableBuilds>
-    <AvailableBuild RestrictionType="Default" Version="16.0.18129.20014" />
+    <AvailableBuild RestrictionType="Default" Version="16.0.18129.20016" />
     <AvailableBuild RestrictionType="OS" Value="7" Version="16.0.12527.20194" />
   </AvailableBuilds>
   <Throttle Value="1000" />
   <LKG Value="16.0.12527.20194" />
-  <CreatedTimeUtc Value="10/03/2024 04:50" />
+  <CreatedTimeUtc Value="10/03/2024 21:35" />
   <ExpiredBuilds>
     <Build Value="16.0.15831.20014" />
   </ExpiredBuilds>
