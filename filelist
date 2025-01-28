@@ -1,9 +1,9 @@
 
 ,
 /office/data/
-/office/data/16.0.17328.20670/
+/office/data/16.0.17928.20392/
 0
-16.0.17328.20670
+16.0.17928.20392
 :
 :[{
 SemiAnnual
@@ -16,13 +16,13 @@ files
 hashAlgorithm
 hashLocation
 http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.17328.20670/a640_exp.cab
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.17328.20670/i640.cab
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.17328.20670/i640.cab.cat
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.17328.20670/s640.cab
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.17328.20670/stream.x64.x-none.dat
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.17328.20670/stream.x64.x-none.dat.cat
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/v64_16.0.17328.20670.cab
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.17928.20392/a640_exp.cab
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.17928.20392/i640.cab
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.17928.20392/i640.cab.cat
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.17928.20392/s640.cab
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.17928.20392/stream.x64.x-none.dat
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.17928.20392/stream.x64.x-none.dat.cat
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/v64_16.0.17928.20392.cab
 i640.cab
 i640.cab.cat
 lcid
@@ -35,7 +35,7 @@ stream.x64.x-none.dat
 stream.x64.x-none.dat.cat
 url
 v64.cab
-v64_16.0.17328.20670.cab
+v64_16.0.17928.20392.cab
 version
 x64
 {
