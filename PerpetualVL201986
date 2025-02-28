@@ -304,7 +304,6 @@ http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/da
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/s325146.cab
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/s327194.cab
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/s329242.cab
-http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/sc320.cab
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/sp321025.cab
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/sp321026.cab
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/sp3210266.cab
@@ -581,7 +580,6 @@ http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/da
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/stream.x86.vi-vn.proof.dat
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/stream.x86.wo-sn.dat
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/stream.x86.wo-sn.proof.dat
-http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/stream.x86.x-none.chpe.dat
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/stream.x86.x-none.dat
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/stream.x86.xh-za.dat
 http://officecdn.microsoft.com/pr/f2e724c1-748f-4b47-8fb8-8e0d210e9208/office/data/16.0.10416.20058/stream.x86.xh-za.proof.dat
@@ -890,8 +888,6 @@ s327194.cab
 s327194.cab/stream.x86.sr-cyrl-ba.hash
 s329242.cab
 s329242.cab/stream.x86.sr-latn-rs.hash
-sc320.cab
-sc320.cab/stream.x86.x-none.chpe.hash
 sp321025.cab
 sp321025.cab/stream.x86.ar-sa.proof.hash
 sp321026.cab
@@ -1260,7 +1256,6 @@ stream.x86.vi-vn.dat
 stream.x86.vi-vn.proof.dat
 stream.x86.wo-sn.dat
 stream.x86.wo-sn.proof.dat
-stream.x86.x-none.chpe.dat
 stream.x86.x-none.dat
 stream.x86.xh-za.dat
 stream.x86.xh-za.proof.dat

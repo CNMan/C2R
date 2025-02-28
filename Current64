@@ -275,7 +275,6 @@ http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/da
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/s645146.cab
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/s647194.cab
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/s649242.cab
-http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/sa640.cab
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/sp641025.cab
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/sp641026.cab
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/sp6410266.cab
@@ -751,8 +750,6 @@ http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/da
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/stream.x64.wo-sn.dat.cat
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/stream.x64.wo-sn.proof.dat
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/stream.x64.wo-sn.proof.dat.cat
-http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/stream.x64.x-none.arm64x.dat
-http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/stream.x64.x-none.arm64x.dat.cat
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/stream.x64.x-none.dat
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/stream.x64.x-none.dat.cat
 http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/office/data/16.0.18429.20158/stream.x64.xh-za.dat
@@ -1041,8 +1038,6 @@ s647194.cab
 s647194.cab/stream.x64.sr-cyrl-ba.hash
 s649242.cab
 s649242.cab/stream.x64.sr-latn-rs.hash
-sa640.cab
-sa640.cab/stream.x64.x-none.arm64x.hash
 sp641025.cab
 sp641025.cab/stream.x64.ar-sa.proof.hash
 sp641026.cab
@@ -1613,8 +1608,6 @@ stream.x64.wo-sn.dat
 stream.x64.wo-sn.dat.cat
 stream.x64.wo-sn.proof.dat
 stream.x64.wo-sn.proof.dat.cat
-stream.x64.x-none.arm64x.dat
-stream.x64.x-none.arm64x.dat.cat
 stream.x64.x-none.dat
 stream.x64.x-none.dat.cat
 stream.x64.xh-za.dat
