@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Version>
-  <Available Build="16.0.12525.20000" I320Hash="B7AB6E87665E50C40BFE4FAC34F6DB09" I640Hash="4545598A0D44EA5182499697B1630A79" I320Version="16.0.18731.20004" I640Version="16.0.18731.20004" />
+  <Available Build="16.0.12525.20000" I320Hash="D9203839853A349DDD67F3E3AEE22A24" I640Hash="167DBAF3BD085750827F3FE572717ADD" I320Version="16.0.18802.20000" I640Version="16.0.18802.20000" />
   <SecurityFixes LastBuild="" />
   <RequiredClientVersion Build="15.0.4446.1000" />
   <MinUpgradeBuild Build="16.0.0.0" />
@@ -163,6 +163,11 @@
       </PreReq>
     </ProductReleaseId>
     <ProductReleaseId Name="MondoVolume">
+      <PreReq>
+        <MinOSVersion Build="10.0" FailMessage="NoMinOS" />
+      </PreReq>
+    </ProductReleaseId>
+    <ProductReleaseId Name="O365AppsBasicRetail">
       <PreReq>
         <MinOSVersion Build="10.0" FailMessage="NoMinOS" />
       </PreReq>
@@ -750,13 +755,13 @@
   </ProductReleaseIds>
   <DeliveryMechanism FFNRoot="ea4a4090-de26-49d7-93c1-91bff9e53fc3" />
   <AvailableBuilds>
-    <AvailableBuild RestrictionType="Default" Version="16.0.18731.20004" />
+    <AvailableBuild RestrictionType="Default" Version="16.0.18802.20000" />
     <AvailableBuild RestrictionType="OS" Value="7" Version="16.0.12525.20000" />
     <AvailableBuild RestrictionType="OS" Value="8.1" Version="16.0.16207.20000" />
   </AvailableBuilds>
   <Throttle Value="1000" />
   <LKG Value="16.0.12525.20000" />
-  <CreatedTimeUtc Value="04/02/2025 19:10" />
+  <CreatedTimeUtc Value="04/03/2025 20:22" />
   <ExpiredBuilds>
     <Build Value="16.0.16404.20002" />
     <Build Value="16.0.16620.20000" />
