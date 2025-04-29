@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ReleaseHistory PublishedDate="04/25/2025 00:54">
+<ReleaseHistory PublishedDate="04/28/2025 16:12">
   <UpdateChannel Name="InsiderSlow" ID="CurrentPreview" DisplayName="Current Channel (Preview)">
-    <Update Latest="True" Version="2504" LegacyVersion="16.0.18730.20088" Build="18730.20088" PubTime="2025-04-23T15:15:55.083Z" />
-    <Update Latest="False" Version="2504" LegacyVersion="16.0.18730.20072" Build="18730.20072" PubTime="2025-04-17T21:00:49.493Z" />
+    <Update Latest="True" Version="2504" LegacyVersion="16.0.18730.20122" Build="18730.20122" PubTime="2025-04-28T15:54:12Z" />
+    <Update Latest="False" Version="2504" LegacyVersion="16.0.18730.20088" Build="18730.20088" PubTime="2025-04-23T15:15:55.083Z" />
   </UpdateChannel>
   <UpdateChannel Name="Current" ID="Current" DisplayName="Current Channel">
     <Update Latest="True" Version="2503" LegacyVersion="16.0.18623.20208" Build="18623.20208" PubTime="2025-04-17T20:39:35.547Z" />
