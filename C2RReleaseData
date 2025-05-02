@@ -325,10 +325,6 @@
       {
         "OfficeBitness": "x86",
         "OsArchitecture": "ARM64"
-      },
-      {
-        "OfficeBitness": "x64",
-        "OsArchitecture": "ARM64"
       }
     ],
     "IsDefault": false
@@ -449,8 +445,8 @@
     "Order": 100,
     "FFN": "5440fd1f-7ecb-4221-8110-145efaa6372f",
     "AvailableBuild": "16.0.18827.20006",
-    "ThrottleLevel": 250,
-    "LkgBuild": "16.0.18817.20000",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.18827.20006",
     "ExpiredBuilds": [
       "16.0.17108.20000",
       "16.0.17217.20000",
@@ -460,7 +456,7 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2025-04-30T21:20:28.61",
+    "UpdatedTimeUtc": "2025-05-01T13:40:14.997",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -548,7 +544,7 @@
     "Order": 100,
     "FFN": "5462eee5-1e97-495b-9370-853cd873bb07",
     "AvailableBuild": "16.0.18827.20008",
-    "ThrottleLevel": 200,
+    "ThrottleLevel": 1000,
     "LkgBuild": "16.0.18730.20122",
     "ExpiredBuilds": [
       "16.0.16529.20010",
@@ -558,7 +554,7 @@
     "ForkName": "2504-Apr",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2025-05-01T00:25:10.08",
+    "UpdatedTimeUtc": "2025-05-01T12:45:23.873",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -673,7 +669,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1425947,
+    "Id": 1426811,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -719,7 +715,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1425948,
+    "Id": 1426812,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -742,7 +738,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1425949,
+    "Id": 1426813,
     "Name": "Default",
     "Order": 121,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -2017,10 +2013,6 @@
       {
         "OfficeBitness": "x86",
         "OsArchitecture": "ARM64"
-      },
-      {
-        "OfficeBitness": "x64",
-        "OsArchitecture": "ARM64"
       }
     ],
     "IsDefault": false
@@ -2218,14 +2210,14 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "f3260cf1-a92c-4c75-b02e-d64c0a86a968",
-    "AvailableBuild": "16.0.18827.20012",
+    "AvailableBuild": "16.0.18827.20016",
     "ThrottleLevel": 1000,
     "LkgBuild": "16.0.18827.20008",
     "ExpiredBuilds": [],
     "ForkName": "2504-Apr",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2025-05-01T04:50:19.647",
+    "UpdatedTimeUtc": "2025-05-02T03:50:13.52",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
