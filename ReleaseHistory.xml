@@ -1,25 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ReleaseHistory PublishedDate="07/08/2025 00:24">
+<ReleaseHistory PublishedDate="07/08/2025 16:10">
   <UpdateChannel Name="InsiderSlow" ID="CurrentPreview" DisplayName="Current Channel (Preview)">
-    <Update Latest="True" Version="2506" LegacyVersion="16.0.18925.20138" Build="18925.20138" PubTime="2025-07-02T14:22:01.68Z" />
-    <Update Latest="False" Version="2506" LegacyVersion="16.0.18925.20118" Build="18925.20118" PubTime="2025-06-30T16:50:46.22Z" />
+    <Update Latest="True" Version="2507" LegacyVersion="16.0.19029.20030" Build="19029.20030" PubTime="2025-07-08T15:58:56.53Z" />
+    <Update Latest="False" Version="2506" LegacyVersion="16.0.18925.20138" Build="18925.20138" PubTime="2025-07-02T14:22:01.68Z" />
   </UpdateChannel>
   <UpdateChannel Name="Current" ID="Current" DisplayName="Current Channel">
-    <Update Latest="True" Version="2506" LegacyVersion="16.0.18925.20138" Build="18925.20138" PubTime="2025-07-01T20:59:02.58Z" />
-    <Update Latest="False" Version="2505" LegacyVersion="16.0.18827.20176" Build="18827.20176" PubTime="2025-06-27T03:44:42.713Z" />
+    <Update Latest="True" Version="2506" LegacyVersion="16.0.18925.20158" Build="18925.20158" PubTime="2025-07-08T07:34:50.497Z" />
+    <Update Latest="False" Version="2506" LegacyVersion="16.0.18925.20138" Build="18925.20138" PubTime="2025-07-01T20:59:02.58Z" />
   </UpdateChannel>
   <UpdateChannel Name="FirstReleaseDeferred" ID="SemiAnnualPreview" DisplayName="Semi-Annual Enterprise Channel (Preview)">
-    <Update Latest="True" Version="2502" LegacyVersion="16.0.18526.20438" Build="18526.20438" PubTime="2025-06-24T23:50:13.527Z" />
+    <Update Latest="True" Version="2502" LegacyVersion="16.0.18526.20472" Build="18526.20472" PubTime="2025-07-08T07:33:30.53Z" />
     <Update Latest="False" Version="2502" LegacyVersion="16.0.18526.20416" Build="18526.20416" PubTime="2025-06-10T21:11:27.883Z" />
   </UpdateChannel>
   <UpdateChannel Name="Deferred" ID="SemiAnnual" DisplayName="Semi-Annual Enterprise Channel">
-    <Update Latest="True" Version="2408" LegacyVersion="16.0.17928.20588" Build="17928.20588" PubTime="2025-06-24T21:31:23.387Z" />
+    <Update Latest="True" Version="2502" LegacyVersion="16.0.18526.20472" Build="18526.20472" PubTime="2025-07-08T07:32:22.447Z" />
+    <Update Latest="False" Version="2408" LegacyVersion="16.0.17928.20604" Build="17928.20604" PubTime="2025-07-08T07:45:49.007Z" />
+    <Update Latest="False" Version="2408" LegacyVersion="16.0.17928.20588" Build="17928.20588" PubTime="2025-06-24T21:31:23.387Z" />
     <Update Latest="False" Version="2408" LegacyVersion="16.0.17928.20572" Build="17928.20572" PubTime="2025-06-11T01:16:33.817Z" />
     <Update Latest="False" Version="2408" LegacyVersion="16.0.17928.20538" Build="17928.20538" PubTime="2025-05-13T07:26:38.667Z" />
     <Update Latest="False" Version="2408" LegacyVersion="16.0.17928.20512" Build="17928.20512" PubTime="2025-04-08T08:18:17.35Z" />
     <Update Latest="False" Version="2408" LegacyVersion="16.0.17928.20468" Build="17928.20468" PubTime="2025-03-11T08:50:03.347Z" />
     <Update Latest="False" Version="2408" LegacyVersion="16.0.17928.20440" Build="17928.20440" PubTime="2025-02-11T17:01:39.79Z" />
     <Update Latest="False" Version="2408" LegacyVersion="16.0.17928.20392" Build="17928.20392" PubTime="2025-01-14T08:57:44.92Z" />
+    <Update Latest="False" Version="2402" LegacyVersion="16.0.17328.20856" Build="17328.20856" PubTime="2025-07-08T07:47:29.833Z" />
     <Update Latest="False" Version="2402" LegacyVersion="16.0.17328.20836" Build="17328.20836" PubTime="2025-06-24T21:44:59.567Z" />
     <Update Latest="False" Version="2402" LegacyVersion="16.0.17328.20820" Build="17328.20820" PubTime="2025-06-10T23:46:22.15Z" />
     <Update Latest="False" Version="2402" LegacyVersion="16.0.17328.20794" Build="17328.20794" PubTime="2025-05-13T07:39:06.607Z" />
@@ -33,23 +36,10 @@
     <Update Latest="False" Version="2402" LegacyVersion="16.0.17328.20588" Build="17328.20588" PubTime="2024-09-10T07:31:22.417Z" />
     <Update Latest="False" Version="2402" LegacyVersion="16.0.17328.20550" Build="17328.20550" PubTime="2024-08-13T07:10:59.26Z" />
     <Update Latest="False" Version="2402" LegacyVersion="16.0.17328.20452" Build="17328.20452" PubTime="2024-07-09T07:21:56.893Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.21114" Build="16731.21114" PubTime="2025-02-11T09:05:25.107Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.21064" Build="16731.21064" PubTime="2025-01-14T09:18:10.853Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.20998" Build="16731.20998" PubTime="2024-12-10T08:40:17.42Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.20948" Build="16731.20948" PubTime="2024-11-12T08:32:14.997Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.20822" Build="16731.20822" PubTime="2024-10-09T01:29:26.13Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.20810" Build="16731.20810" PubTime="2024-09-10T07:33:15.243Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.20792" Build="16731.20792" PubTime="2024-08-13T07:32:38.8Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.20738" Build="16731.20738" PubTime="2024-07-09T07:34:06.19Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.20716" Build="16731.20716" PubTime="2024-06-11T07:29:10.087Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.20674" Build="16731.20674" PubTime="2024-05-14T07:26:32.12Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.20636" Build="16731.20636" PubTime="2024-04-09T07:27:28.317Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.20600" Build="16731.20600" PubTime="2024-03-12T07:32:33.007Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.20550" Build="16731.20550" PubTime="2024-02-13T08:23:21.45Z" />
-    <Update Latest="False" Version="2308" LegacyVersion="16.0.16731.20504" Build="16731.20504" PubTime="2024-01-09T08:21:16.437Z" />
   </UpdateChannel>
   <UpdateChannel Name="Perpetual2019" ID="PerpetualVL2019" DisplayName="Office 2019 Perpetual Enterprise">
-    <Update Latest="True" Version="LTSB2018" LegacyVersion="16.0.10417.20020" Build="10417.20020" PubTime="2025-06-10T13:21:43.023Z" />
+    <Update Latest="True" Version="LTSB2018" LegacyVersion="16.0.10417.20030" Build="10417.20030" PubTime="2025-07-08T13:33:54.323Z" />
+    <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10417.20020" Build="10417.20020" PubTime="2025-06-10T13:21:43.023Z" />
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10417.20012" Build="10417.20012" PubTime="2025-05-13T13:25:01.783Z" />
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10417.20007" Build="10417.20007" PubTime="2025-04-08T13:36:16.257Z" />
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10416.20073" Build="10416.20073" PubTime="2025-03-11T16:15:34.103Z" />
@@ -76,7 +66,7 @@
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10400.20007" Build="10400.20007" PubTime="2023-07-11T13:23:20.23Z" />
   </UpdateChannel>
   <UpdateChannel Name="Perpetual2021" ID="PerpetualVL2021" DisplayName="Office 2021 Perpetual Enterprise">
-    <Update Latest="True" Version="LTSB2021" LegacyVersion="16.0.14334.20116" Build="14334.20116" PubTime="2025-06-24T21:45:37.36Z" />
+    <Update Latest="True" Version="LTSB2021" LegacyVersion="16.0.14334.20136" Build="14334.20136" PubTime="2025-07-08T13:30:16.49Z" />
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14334.20090" Build="14334.20090" PubTime="2025-06-10T13:21:59.093Z" />
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.21040" Build="14332.21040" PubTime="2025-05-13T13:23:08.607Z" />
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.21017" Build="14332.21017" PubTime="2025-04-08T13:36:24.25Z" />
@@ -104,7 +94,7 @@
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20529" Build="14332.20529" PubTime="2023-07-11T13:17:31.25Z" />
   </UpdateChannel>
   <UpdateChannel Name="Perpetual2024" ID="PerpetualVL2024" DisplayName="Office 2024 Perpetual Enterprise">
-    <Update Latest="True" Version="LTSB2024" LegacyVersion="16.0.17932.20408" Build="17932.20408" PubTime="2025-06-24T21:44:19.577Z" />
+    <Update Latest="True" Version="LTSB2024" LegacyVersion="16.0.17932.20428" Build="17932.20428" PubTime="2025-07-08T13:30:14.337Z" />
     <Update Latest="False" Version="LTSB2024" LegacyVersion="16.0.17932.20396" Build="17932.20396" PubTime="2025-06-10T13:22:44.56Z" />
     <Update Latest="False" Version="LTSB2024" LegacyVersion="16.0.17932.20360" Build="17932.20360" PubTime="2025-05-13T13:24:12.933Z" />
     <Update Latest="False" Version="LTSB2024" LegacyVersion="16.0.17932.20328" Build="17932.20328" PubTime="2025-04-08T13:35:58.61Z" />
@@ -133,7 +123,7 @@
     <Update Latest="False" Version="LTSB2024" LegacyVersion="16.0.17425.20058" Build="17425.20058" PubTime="2024-03-13T20:49:06.527Z" />
   </UpdateChannel>
   <UpdateChannel Name="MonthlyEnterprise" ID="MonthlyEnterprise" DisplayName="Monthly Enterprise Channel">
-    <Update Latest="True" Version="2504" LegacyVersion="16.0.18730.20226" Build="18730.20226" PubTime="2025-06-24T22:50:43.013Z" />
-    <Update Latest="False" Version="2503" LegacyVersion="16.0.18623.20302" Build="18623.20302" PubTime="2025-06-24T23:51:08.61Z" />
+    <Update Latest="True" Version="2505" LegacyVersion="16.0.18827.20202" Build="18827.20202" PubTime="2025-07-08T07:20:04.097Z" />
+    <Update Latest="False" Version="2504" LegacyVersion="16.0.18730.20240" Build="18730.20240" PubTime="2025-07-08T07:51:33.547Z" />
   </UpdateChannel>
 </ReleaseHistory>
