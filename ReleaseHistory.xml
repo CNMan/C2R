@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ReleaseHistory PublishedDate="08/07/2025 17:54">
+<ReleaseHistory PublishedDate="08/08/2025 19:00">
   <UpdateChannel Name="InsiderSlow" ID="CurrentPreview" DisplayName="Current Channel (Preview)">
-    <Update Latest="True" Version="2507" LegacyVersion="16.0.19029.20136" Build="19029.20136" PubTime="2025-07-28T15:45:21.023Z" />
-    <Update Latest="False" Version="2507" LegacyVersion="16.0.19029.20080" Build="19029.20080" PubTime="2025-07-21T17:19:55.557Z" />
+    <Update Latest="True" Version="2508" LegacyVersion="16.0.19127.20064" Build="19127.20064" PubTime="2025-08-08T18:31:10.603Z" />
+    <Update Latest="False" Version="2507" LegacyVersion="16.0.19029.20136" Build="19029.20136" PubTime="2025-07-28T15:45:21.023Z" />
   </UpdateChannel>
   <UpdateChannel Name="Current" ID="Current" DisplayName="Current Channel">
     <Update Latest="True" Version="2507" LegacyVersion="16.0.19029.20156" Build="19029.20156" PubTime="2025-08-05T21:00:06.123Z" />
@@ -61,7 +61,6 @@
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10404.20013" Build="10404.20013" PubTime="2023-11-14T14:21:37.827Z" />
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10403.20013" Build="10403.20013" PubTime="2023-10-10T13:20:39.303Z" />
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10402.20023" Build="10402.20023" PubTime="2023-09-12T13:21:51.203Z" />
-    <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10401.20025" Build="10401.20025" PubTime="2023-08-08T13:19:50.827Z" />
   </UpdateChannel>
   <UpdateChannel Name="Perpetual2021" ID="PerpetualVL2021" DisplayName="Office 2021 Perpetual Enterprise">
     <Update Latest="True" Version="LTSB2021" LegacyVersion="16.0.14334.20136" Build="14334.20136" PubTime="2025-07-08T13:30:16.49Z" />
@@ -87,7 +86,6 @@
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20604" Build="14332.20604" PubTime="2023-11-14T14:19:04.067Z" />
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20582" Build="14332.20582" PubTime="2023-10-10T13:16:25.12Z" />
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20565" Build="14332.20565" PubTime="2023-09-12T13:16:47.91Z" />
-    <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20546" Build="14332.20546" PubTime="2023-08-08T14:59:05.42Z" />
   </UpdateChannel>
   <UpdateChannel Name="Perpetual2024" ID="PerpetualVL2024" DisplayName="Office 2024 Perpetual Enterprise">
     <Update Latest="True" Version="LTSB2024" LegacyVersion="16.0.17932.20428" Build="17932.20428" PubTime="2025-07-08T13:30:14.337Z" />
