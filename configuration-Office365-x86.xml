@@ -5,12 +5,12 @@
      To use the configuration file be sure to remove the comments
 
      The following sample allows you to download and install the 32 bit version of the Office 365 ProPlus apps 
-     and Visio Pro for Office 365 directly from the Office CDN using the Monthly Channel
+     and Visio Pro for Office 365 directly from the Office CDN using the Current Channel
      settings  -->
 
 <Configuration>
 
-  <Add OfficeClientEdition="32" Channel="Monthly">
+  <Add OfficeClientEdition="32" Channel="Current">
     <Product ID="O365ProPlusRetail">
       <Language ID="en-us" />
     </Product>
@@ -19,7 +19,7 @@
     </Product>
   </Add>
 
-  <!--  <Updates Enabled="TRUE" Channel="Monthly" /> -->
+  <!--  <Updates Enabled="TRUE" Channel="Current" /> -->
 
   <!--  <Display Level="None" AcceptEULA="TRUE" />  -->
 
