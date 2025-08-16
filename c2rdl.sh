@@ -383,7 +383,25 @@ Available Languages:https://docs.microsoft.com/en-us/openspecs/office_standards/
 
 IMG Download Example(only Retail/RTM Channel):
 \`\`\`
-Office 2021(16.0.14326.20454):
+Office 2024(16.0.17928.20148):
+https://$URL/$FFN37/media/$LANG/Access2024Retail.img
+https://$URL/$FFN37/media/$LANG/Excel2024Retail.img
+https://$URL/$FFN37/media/$LANG/HomeBusiness2024Retail.img
+https://$URL/$FFN37/media/$LANG/HomeStudent2024Retail.img
+https://$URL/$FFN37/media/$LANG/O365BusinessRetail.img
+https://$URL/$FFN37/media/$LANG/O365HomePremRetail.img
+https://$URL/$FFN37/media/$LANG/O365ProPlusRetail.img
+https://$URL/$FFN37/media/$LANG/Outlook2024Retail.img
+https://$URL/$FFN37/media/$LANG/PowerPoint2024Retail.img
+https://$URL/$FFN37/media/$LANG/Professional2024Retail.img
+https://$URL/$FFN37/media/$LANG/ProjectPro2024Retail.img
+https://$URL/$FFN37/media/$LANG/ProjectStd2024Retail.img
+https://$URL/$FFN37/media/$LANG/ProPlus2024Retail.img
+https://$URL/$FFN37/media/$LANG/Publisher2024Retail.img
+https://$URL/$FFN37/media/$LANG/VisioPro2024Retail.img
+https://$URL/$FFN37/media/$LANG/VisioStd2024Retail.img
+https://$URL/$FFN37/media/$LANG/Word2024Retail.img
+Office 2021(16.0.16327.20264):
 https://$URL/$FFN37/media/$LANG/Access2021Retail.img
 https://$URL/$FFN37/media/$LANG/Excel2021Retail.img
 https://$URL/$FFN37/media/$LANG/HomeBusiness2021Retail.img
@@ -418,9 +436,6 @@ https://$URL/$FFN37/media/$LANG/AccessRetail.img
 https://$URL/$FFN37/media/$LANG/ExcelRetail.img
 https://$URL/$FFN37/media/$LANG/HomeBusinessRetail.img
 https://$URL/$FFN37/media/$LANG/HomeStudentRetail.img
-https://$URL/$FFN37/media/$LANG/O365BusinessRetail.img
-https://$URL/$FFN37/media/$LANG/O365HomePremRetail.img
-https://$URL/$FFN37/media/$LANG/O365ProPlusRetail.img
 https://$URL/$FFN37/media/$LANG/OutlookRetail.img
 https://$URL/$FFN37/media/$LANG/PowerPointRetail.img
 https://$URL/$FFN37/media/$LANG/ProfessionalRetail.img

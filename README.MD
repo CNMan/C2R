@@ -49,18 +49,18 @@
 |C4A7726F-06EA-48E2-A13A-9D78849EB706|16.0.14931.20888|2023-01-11 18:30:02|||Dogfood_DCEXT|
 |7983BAC0-E531-40CF-BE00-FD24FE66619C|16.0.17932.20496|2025-08-14 17:32:19|PerpetualVL2024||Production_LTSC2024|
 |C02D8FE6-5242-4DA8-972F-82EE55E00671|16.0.17932.20496|2025-08-14 17:31:45|||Microsoft_LTSC2024|
-|7FFBC6BF-BC32-4F92-8982-F9DD17FD3114|16.0.18526.20546|2025-08-14 15:19:55|SemiAnnual||Production_DC|
-|B8F9B850-328D-4355-9145-C59439A0C4CF|16.0.18526.20546|2025-08-14 15:19:55|SemiAnnualPreview||Insiders_FRDC|
+|7FFBC6BF-BC32-4F92-8982-F9DD17FD3114|16.0.18526.20546|2025-08-15 15:48:50|SemiAnnual||Production_DC|
+|B8F9B850-328D-4355-9145-C59439A0C4CF|16.0.18526.20546|2025-08-15 15:47:07|SemiAnnualPreview||Insiders_FRDC|
 |F4F024C8-D611-4748-A7E0-02B6E754C0FE|16.0.18526.20546|2025-08-12 11:01:45|||Microsoft_DC|
 |9A3B7FF2-58ED-40FD-ADD5-1E5158059D1C|16.0.18526.20546|2025-08-12 11:07:23|||Microsoft_FRDC|
 |B61285DD-D9F7-41F2-9757-8F61CBA4E9C8|16.0.18817.20000|2025-04-22 02:01:17|||Microsoft_DevMain|
 |55336B82-A18D-4DD6-B5F6-9E5095C314A6|16.0.18925.20216|2025-08-14 15:18:33|MonthlyEnterprise||Production_MEC|
-|492350F6-3A01-4F97-B9C0-C7C6DDF67D60|16.0.19029.20184|2025-08-14 15:32:34|Current||Production_CC|
-|64256AFE-F5D9-4F86-8936-8840A6A4F5BE|16.0.19127.20082|2025-08-12 20:03:55|CurrentPreview||Insiders_CC|
-|5462EEE5-1E97-495B-9370-853CD873BB07|16.0.19127.20082|2025-08-12 20:03:55|||Microsoft_CC|
-|F3260CF1-A92C-4C75-B02E-D64C0A86A968|16.0.19127.20104|2025-08-15 01:14:33|||Dogfood_CC|
-|5440FD1F-7ECB-4221-8110-145EFAA6372F|16.0.19207.20002|2025-08-13 14:11:00|||Insiders_DevMain|
-|EA4A4090-DE26-49D7-93C1-91BFF9E53FC3|16.0.19212.20000|2025-08-14 16:31:28|||Dogfood_DevMain|
+|492350F6-3A01-4F97-B9C0-C7C6DDF67D60|16.0.19029.20184|2025-08-15 15:47:52|Current||Production_CC|
+|64256AFE-F5D9-4F86-8936-8840A6A4F5BE|16.0.19127.20082|2025-08-15 15:32:14|CurrentPreview||Insiders_CC|
+|5462EEE5-1E97-495B-9370-853CD873BB07|16.0.19127.20106|2025-08-15 21:32:52|||Microsoft_CC|
+|F3260CF1-A92C-4C75-B02E-D64C0A86A968|16.0.19127.20106|2025-08-15 21:29:48|||Dogfood_CC|
+|5440FD1F-7ECB-4221-8110-145EFAA6372F|16.0.19212.20000|2025-08-15 19:47:32|||Insiders_DevMain|
+|EA4A4090-DE26-49D7-93C1-91BFF9E53FC3|16.0.19214.20000|2025-08-15 22:31:04|||Dogfood_DevMain|
 
 x86 32-Bit and x64 64-Bit Download Example:
 ```
@@ -129,7 +129,25 @@ Available Languages:https://docs.microsoft.com/en-us/openspecs/office_standards/
 
 IMG Download Example(only Retail/RTM Channel):
 ```
-Office 2021(16.0.14326.20454):
+Office 2024(16.0.17928.20148):
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/Access2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/Excel2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/HomeBusiness2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/HomeStudent2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/O365BusinessRetail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/O365HomePremRetail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/O365ProPlusRetail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/Outlook2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/PowerPoint2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/Professional2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/ProjectPro2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/ProjectStd2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/ProPlus2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/Publisher2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/VisioPro2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/VisioStd2024Retail.img
+https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/Word2024Retail.img
+Office 2021(16.0.16327.20264):
 https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/Access2021Retail.img
 https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/Excel2021Retail.img
 https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/HomeBusiness2021Retail.img
@@ -164,9 +182,6 @@ https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh
 https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/ExcelRetail.img
 https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/HomeBusinessRetail.img
 https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/HomeStudentRetail.img
-https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/O365BusinessRetail.img
-https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/O365HomePremRetail.img
-https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/O365ProPlusRetail.img
 https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/OutlookRetail.img
 https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/PowerPointRetail.img
 https://officecdn.microsoft.com/pr/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/zh-cn/ProfessionalRetail.img
