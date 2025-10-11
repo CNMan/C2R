@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ReleaseHistory PublishedDate="10/09/2025 16:24">
+<ReleaseHistory PublishedDate="10/10/2025 23:38">
   <UpdateChannel Name="InsiderSlow" ID="CurrentPreview" DisplayName="Current Channel (Preview)">
     <Update Latest="True" Version="2510" LegacyVersion="16.0.19328.20040" Build="19328.20040" PubTime="2025-10-08T17:10:57.103Z" />
     <Update Latest="False" Version="2510" LegacyVersion="16.0.19328.20010" Build="19328.20010" PubTime="2025-10-02T18:38:40.013Z" />
@@ -51,7 +51,6 @@
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10406.20006" Build="10406.20006" PubTime="2024-01-09T14:20:46.137Z" />
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10405.20015" Build="10405.20015" PubTime="2023-12-12T14:37:54.393Z" />
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10404.20013" Build="10404.20013" PubTime="2023-11-14T14:21:37.827Z" />
-    <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10403.20013" Build="10403.20013" PubTime="2023-10-10T13:20:39.303Z" />
   </UpdateChannel>
   <UpdateChannel Name="Perpetual2021" ID="PerpetualVL2021" DisplayName="Office 2021 Perpetual Enterprise">
     <Update Latest="True" Version="LTSB2021" LegacyVersion="16.0.14334.20296" Build="14334.20296" PubTime="2025-09-09T13:29:04.857Z" />
@@ -77,7 +76,6 @@
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20624" Build="14332.20624" PubTime="2024-01-09T14:15:46.893Z" />
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20615" Build="14332.20615" PubTime="2023-12-12T14:17:26.527Z" />
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20604" Build="14332.20604" PubTime="2023-11-14T14:19:04.067Z" />
-    <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20582" Build="14332.20582" PubTime="2023-10-10T13:16:25.12Z" />
   </UpdateChannel>
   <UpdateChannel Name="Perpetual2024" ID="PerpetualVL2024" DisplayName="Office 2024 Perpetual Enterprise">
     <Update Latest="True" Version="LTSB2024" LegacyVersion="16.0.17932.20540" Build="17932.20540" PubTime="2025-09-09T13:28:20.547Z" />
