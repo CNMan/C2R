@@ -1,9 +1,9 @@
 
 ,
 /office/data/
-/office/data/16.0.18526.20604/
+/office/data/16.0.18526.20634/
 0
-16.0.18526.20604
+16.0.18526.20634
 :
 :[{
 SemiAnnual
@@ -16,16 +16,16 @@ files
 hashAlgorithm
 hashLocation
 http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20604/a640_exp.cab
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20604/i640.cab
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20604/i640.cab.cat
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20604/s640.cab
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20604/sa640.cab
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20604/stream.x64.x-none.arm64x.dat
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20604/stream.x64.x-none.arm64x.dat.cat
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20604/stream.x64.x-none.dat
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20604/stream.x64.x-none.dat.cat
-http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/v64_16.0.18526.20604.cab
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20634/a640_exp.cab
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20634/i640.cab
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20634/i640.cab.cat
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20634/s640.cab
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20634/sa640.cab
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20634/stream.x64.x-none.arm64x.dat
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20634/stream.x64.x-none.arm64x.dat.cat
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20634/stream.x64.x-none.dat
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/16.0.18526.20634/stream.x64.x-none.dat.cat
+http://officecdn.microsoft.com/pr/7ffbc6bf-bc32-4f92-8982-f9dd17fd3114/office/data/v64_16.0.18526.20634.cab
 i640.cab
 i640.cab.cat
 lcid
@@ -42,7 +42,7 @@ stream.x64.x-none.dat
 stream.x64.x-none.dat.cat
 url
 v64.cab
-v64_16.0.18526.20604.cab
+v64_16.0.18526.20634.cab
 version
 x64
 {
