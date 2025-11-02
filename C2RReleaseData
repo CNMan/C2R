@@ -143,41 +143,6 @@
     "IsDefault": false
   },
   {
-    "Id": 126,
-    "Name": "SIP",
-    "Order": 96,
-    "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
-    "AvailableBuild": "16.0.19328.20158",
-    "ThrottleLevel": 10,
-    "LkgBuild": "16.0.19231.20216",
-    "ExpiredBuilds": [],
-    "ForkName": "2509-Sep",
-    "BuildRank": 1,
-    "Type": "Custom SIP",
-    "UpdatedTimeUtc": "2025-10-30T21:45:08.05",
-    "OfficeTenantIds": [],
-    "OfficeProductNames": [
-      "O365HomePremRetail.16"
-    ],
-    "OfficeCultures": [
-      "ar-sa",
-      "de-de",
-      "el-gr",
-      "en-us",
-      "hi-in",
-      "ja-jp",
-      "ko-kr",
-      "tr-tr",
-      "zh-cn",
-      "zh-tw"
-    ],
-    "OfficeBitness": [],
-    "OsVersions": [],
-    "OfficePlatforms": [],
-    "IsDeviceSubsetOfProductIdList": false,
-    "IsDefault": false
-  },
-  {
     "Id": 841169,
     "Name": "Win8.1",
     "Order": 97,
@@ -303,13 +268,13 @@
     "Order": 100,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.19328.20158",
-    "ThrottleLevel": 250,
+    "ThrottleLevel": 550,
     "LkgBuild": "16.0.19231.20216",
     "ExpiredBuilds": [],
     "ForkName": "2509-Sep",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2025-10-31T19:00:21.053",
+    "UpdatedTimeUtc": "2025-11-01T17:45:13.13",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -773,7 +738,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1603031,
+    "Id": 1603895,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -825,7 +790,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1603032,
+    "Id": 1603896,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -851,7 +816,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1603033,
+    "Id": 1603897,
     "Name": "Default",
     "Order": 121,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -2277,14 +2242,14 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "f3260cf1-a92c-4c75-b02e-d64c0a86a968",
-    "AvailableBuild": "16.0.19426.20014",
+    "AvailableBuild": "16.0.19426.20016",
     "ThrottleLevel": 1000,
     "LkgBuild": "16.0.19426.20008",
     "ExpiredBuilds": [],
     "ForkName": "2510-Oct",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2025-11-01T05:55:12.067",
+    "UpdatedTimeUtc": "2025-11-01T16:45:05.547",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
