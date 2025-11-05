@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ReleaseHistory PublishedDate="11/03/2025 22:23">
+<ReleaseHistory PublishedDate="11/04/2025 23:39">
   <UpdateChannel Name="InsiderSlow" ID="CurrentPreview" DisplayName="Current Channel (Preview)">
-    <Update Latest="True" Version="2510" LegacyVersion="16.0.19328.20158" Build="19328.20158" PubTime="2025-10-30T20:37:41.24Z" />
-    <Update Latest="False" Version="2510" LegacyVersion="16.0.19328.20144" Build="19328.20144" PubTime="2025-10-27T20:42:15.96Z" />
+    <Update Latest="True" Version="2511" LegacyVersion="16.0.19426.20024" Build="19426.20024" PubTime="2025-11-04T23:15:00.56Z" />
+    <Update Latest="False" Version="2510" LegacyVersion="16.0.19328.20158" Build="19328.20158" PubTime="2025-10-30T20:37:41.24Z" />
   </UpdateChannel>
   <UpdateChannel Name="Current" ID="Current" DisplayName="Current Channel">
-    <Update Latest="True" Version="2510" LegacyVersion="16.0.19328.20158" Build="19328.20158" PubTime="2025-10-30T22:31:13.663Z" />
-    <Update Latest="False" Version="2509" LegacyVersion="16.0.19231.20216" Build="19231.20216" PubTime="2025-10-21T21:12:39.957Z" />
+    <Update Latest="True" Version="2510" LegacyVersion="16.0.19328.20178" Build="19328.20178" PubTime="2025-11-04T19:55:31.83Z" />
+    <Update Latest="False" Version="2510" LegacyVersion="16.0.19328.20158" Build="19328.20158" PubTime="2025-10-30T22:31:13.663Z" />
   </UpdateChannel>
   <UpdateChannel Name="FirstReleaseDeferred" ID="SemiAnnualPreview" DisplayName="Semi-Annual Enterprise Channel (Preview)">
     <Update Latest="True" Version="2502" LegacyVersion="16.0.18526.20546" Build="18526.20546" PubTime="2025-08-12T07:25:30.587Z" />
