@@ -149,7 +149,7 @@
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.19530.20074",
     "ThrottleLevel": 10,
-    "LkgBuild": "16.0.19426.20186",
+    "LkgBuild": "16.0.19426.20218",
     "ExpiredBuilds": [
       "16.0.19426.20042"
     ],
@@ -305,13 +305,13 @@
     "Order": 100,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.19426.20218",
-    "ThrottleLevel": 550,
-    "LkgBuild": "16.0.19426.20186",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.19426.20218",
     "ExpiredBuilds": [],
     "ForkName": "2510-Oct",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2025-12-19T17:05:08.42",
+    "UpdatedTimeUtc": "2025-12-20T23:00:30.38",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -520,14 +520,13 @@
     "ThrottleLevel": 1000,
     "LkgBuild": "16.0.19615.20000",
     "ExpiredBuilds": [
-      "16.0.17217.20000",
       "16.0.17503.20000",
       "16.0.18205.20002"
     ],
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2025-12-18T14:35:08.74",
+    "UpdatedTimeUtc": "2025-12-20T20:00:37.117",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -776,7 +775,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1645219,
+    "Id": 1646083,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -832,7 +831,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1645220,
+    "Id": 1646084,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -860,7 +859,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1645221,
+    "Id": 1646085,
     "Name": "Default",
     "Order": 121,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1317,13 +1316,13 @@
     "Order": 100,
     "FFN": "7ffbc6bf-bc32-4f92-8982-f9dd17fd3114",
     "AvailableBuild": "16.0.18526.20672",
-    "ThrottleLevel": 700,
+    "ThrottleLevel": 800,
     "LkgBuild": "16.0.18526.20660",
     "ExpiredBuilds": [],
     "ForkName": "2501-Jan",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2025-12-19T17:05:08.42",
+    "UpdatedTimeUtc": "2025-12-20T16:50:06.97",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
