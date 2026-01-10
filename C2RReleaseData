@@ -480,8 +480,8 @@
     "Order": 100,
     "FFN": "5440fd1f-7ecb-4221-8110-145efaa6372f",
     "AvailableBuild": "16.0.19705.20000",
-    "ThrottleLevel": 250,
-    "LkgBuild": "16.0.19630.20002",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.19705.20000",
     "ExpiredBuilds": [
       "16.0.17503.20000",
       "16.0.18205.20002"
@@ -489,7 +489,7 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-01-08T20:35:11.84",
+    "UpdatedTimeUtc": "2026-01-09T14:30:15.09",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -738,7 +738,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1662499,
+    "Id": 1663366,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -794,7 +794,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1662500,
+    "Id": 1663367,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -822,7 +822,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1662501,
+    "Id": 1663368,
     "Name": "Default",
     "Order": 121,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -2119,9 +2119,9 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "ea4a4090-de26-49d7-93c1-91bff9e53fc3",
-    "AvailableBuild": "16.0.19707.20000",
+    "AvailableBuild": "16.0.19706.20004",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.19707.20000",
+    "LkgBuild": "16.0.19706.20004",
     "ExpiredBuilds": [
       "16.0.17703.20000",
       "16.0.17704.20000",
@@ -2138,12 +2138,14 @@
       "16.0.18205.20002",
       "16.0.18206.20000",
       "16.0.18309.20000",
-      "16.0.19518.20000"
+      "16.0.19518.20000",
+      "16.0.19707.20000",
+      "16.0.19708.20000"
     ],
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-01-08T23:55:17.283",
+    "UpdatedTimeUtc": "2026-01-09T18:22:14.427",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2222,14 +2224,14 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "f3260cf1-a92c-4c75-b02e-d64c0a86a968",
-    "AvailableBuild": "16.0.19628.20050",
+    "AvailableBuild": "16.0.19628.20066",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.19628.20050",
+    "LkgBuild": "16.0.19628.20066",
     "ExpiredBuilds": [],
     "ForkName": "2512-Dec",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-01-08T18:40:12.177",
+    "UpdatedTimeUtc": "2026-01-09T18:55:14.21",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
