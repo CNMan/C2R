@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ReleaseHistory PublishedDate="03/11/2026 19:25">
+<ReleaseHistory PublishedDate="03/13/2026 00:54">
   <UpdateChannel Name="InsiderSlow" ID="CurrentPreview" DisplayName="Current Channel (Preview)">
     <Update Latest="True" Version="2603" LegacyVersion="16.0.19822.20044" Build="19822.20044" PubTime="2026-03-09T17:48:20.823Z" />
     <Update Latest="False" Version="2603" LegacyVersion="16.0.19822.20012" Build="19822.20012" PubTime="2026-03-02T21:25:08.383Z" />
@@ -52,7 +52,6 @@
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10411.20011" Build="10411.20011" PubTime="2024-06-11T13:21:20.437Z" />
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10410.20026" Build="10410.20026" PubTime="2024-05-14T13:23:46.257Z" />
     <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10409.20028" Build="10409.20028" PubTime="2024-04-09T14:16:49.23Z" />
-    <Update Latest="False" Version="LTSB2018" LegacyVersion="16.0.10408.20002" Build="10408.20002" PubTime="2024-03-12T13:27:24.803Z" />
   </UpdateChannel>
   <UpdateChannel Name="Perpetual2021" ID="PerpetualVL2021" DisplayName="Office 2021 Perpetual Enterprise">
     <Update Latest="True" Version="LTSB2021" LegacyVersion="16.0.14334.20570" Build="14334.20570" PubTime="2026-03-10T13:28:43.73Z" />
@@ -79,7 +78,6 @@
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20721" Build="14332.20721" PubTime="2024-06-11T13:18:21.017Z" />
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20706" Build="14332.20706" PubTime="2024-05-14T13:19:52.023Z" />
     <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20685" Build="14332.20685" PubTime="2024-04-09T14:24:57.16Z" />
-    <Update Latest="False" Version="LTSB2021" LegacyVersion="16.0.14332.20651" Build="14332.20651" PubTime="2024-03-12T13:22:46.163Z" />
   </UpdateChannel>
   <UpdateChannel Name="Perpetual2024" ID="PerpetualVL2024" DisplayName="Office 2024 Perpetual Enterprise">
     <Update Latest="True" Version="LTSB2024" LegacyVersion="16.0.17932.20700" Build="17932.20700" PubTime="2026-03-10T13:28:38.96Z" />
