@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ReleaseHistory PublishedDate="05/18/2026 23:13">
+<ReleaseHistory PublishedDate="05/20/2026 03:17">
   <UpdateChannel Name="InsiderSlow" ID="CurrentPreview" DisplayName="Current Channel (Preview)">
-    <Update Latest="True" Version="2605" LegacyVersion="16.0.20026.20048" Build="20026.20048" PubTime="2026-05-12T19:44:16.91Z" />
-    <Update Latest="False" Version="2605" LegacyVersion="16.0.20026.20038" Build="20026.20038" PubTime="2026-05-07T23:26:26.367Z" />
+    <Update Latest="True" Version="2605" LegacyVersion="16.0.20026.20076" Build="20026.20076" PubTime="2026-05-20T01:52:43.293Z" />
+    <Update Latest="False" Version="2605" LegacyVersion="16.0.20026.20048" Build="20026.20048" PubTime="2026-05-12T19:44:16.91Z" />
   </UpdateChannel>
   <UpdateChannel Name="Current" ID="Current" DisplayName="Current Channel">
-    <Update Latest="True" Version="2604" LegacyVersion="16.0.19929.20172" Build="19929.20172" PubTime="2026-05-14T18:34:55.28Z" />
-    <Update Latest="False" Version="2604" LegacyVersion="16.0.19929.20136" Build="19929.20136" PubTime="2026-05-05T19:14:24.647Z" />
+    <Update Latest="True" Version="2605" LegacyVersion="16.0.20026.20076" Build="20026.20076" PubTime="2026-05-20T01:00:44.147Z" />
+    <Update Latest="False" Version="2604" LegacyVersion="16.0.19929.20172" Build="19929.20172" PubTime="2026-05-14T18:34:55.28Z" />
   </UpdateChannel>
   <UpdateChannel Name="FirstReleaseDeferred" ID="SemiAnnualPreview" DisplayName="Semi-Annual Enterprise Channel (Preview)">
     <Update Latest="True" Version="2502" LegacyVersion="16.0.18526.20546" Build="18526.20546" PubTime="2025-08-12T07:25:30.587Z" />
@@ -118,6 +118,6 @@
   </UpdateChannel>
   <UpdateChannel Name="MonthlyEnterprise" ID="MonthlyEnterprise" DisplayName="Monthly Enterprise Channel">
     <Update Latest="True" Version="2604" LegacyVersion="16.0.19929.20172" Build="19929.20172" PubTime="2026-05-14T18:54:07.84Z" />
-    <Update Latest="False" Version="2603" LegacyVersion="16.0.19822.20240" Build="19822.20240" PubTime="2026-05-12T23:10:44.45Z" />
+    <Update Latest="False" Version="2603" LegacyVersion="16.0.19822.20254" Build="19822.20254" PubTime="2026-05-19T16:41:57.28Z" />
   </UpdateChannel>
 </ReleaseHistory>
