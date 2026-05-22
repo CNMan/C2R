@@ -20,6 +20,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -43,6 +44,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -116,6 +118,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -144,6 +147,7 @@
       }
     ],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -206,6 +210,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -249,6 +254,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -292,6 +298,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -329,6 +336,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": true,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -354,6 +362,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -377,6 +386,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -407,6 +417,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -478,6 +489,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -506,6 +518,7 @@
       }
     ],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -568,6 +581,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -611,6 +625,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -637,6 +652,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -680,6 +696,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -705,6 +722,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -733,6 +751,7 @@
       }
     ],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -795,6 +814,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -838,6 +858,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -881,6 +902,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -913,10 +935,11 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
-    "Id": 1776975,
+    "Id": 1777806,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -945,6 +968,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -977,10 +1001,11 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
-    "Id": 1776976,
+    "Id": 1777807,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1009,10 +1034,11 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
-    "Id": 1776977,
+    "Id": 1777808,
     "Name": "Default",
     "Order": 121,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1041,6 +1067,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1073,6 +1100,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1147,6 +1175,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1179,6 +1208,7 @@
       }
     ],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1222,6 +1252,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1265,6 +1296,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1292,6 +1324,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1315,6 +1348,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1392,6 +1426,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1420,6 +1455,7 @@
       }
     ],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1463,6 +1499,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1506,6 +1543,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1514,7 +1552,7 @@
     "Order": 100,
     "FFN": "7ffbc6bf-bc32-4f92-8982-f9dd17fd3114",
     "AvailableBuild": "16.0.19127.20648",
-    "ThrottleLevel": 500,
+    "ThrottleLevel": 600,
     "LkgBuild": "16.0.19127.20622",
     "ExpiredBuilds": [
       "16.0.19127.20646"
@@ -1522,7 +1560,7 @@
     "ForkName": "2507-Jul",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-05-20T16:05:07.63",
+    "UpdatedTimeUtc": "2026-05-21T15:55:14.933",
     "AvailabilityDate": "2026-05-14T20:08:06.147",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -1531,6 +1569,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1554,6 +1593,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1577,6 +1617,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1651,6 +1692,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1694,6 +1736,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1717,6 +1760,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1760,6 +1804,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1786,6 +1831,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1859,6 +1905,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1902,6 +1949,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1945,6 +1993,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1968,6 +2017,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2033,6 +2083,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2098,6 +2149,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2127,6 +2179,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2156,6 +2209,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2185,6 +2239,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2213,6 +2268,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2239,6 +2295,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2262,6 +2319,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2285,6 +2343,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2328,6 +2387,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2371,6 +2431,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2378,9 +2439,9 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "ea4a4090-de26-49d7-93c1-91bff9e53fc3",
-    "AvailableBuild": "16.0.20117.20002",
+    "AvailableBuild": "16.0.20120.20000",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.20117.20002",
+    "LkgBuild": "16.0.20120.20000",
     "ExpiredBuilds": [
       "16.0.17824.20000",
       "16.0.17824.20002",
@@ -2397,7 +2458,7 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-05-19T21:07:57.253",
+    "UpdatedTimeUtc": "2026-05-21T22:05:07.74",
     "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -2406,6 +2467,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2429,6 +2491,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2472,6 +2535,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2479,14 +2543,14 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "f3260cf1-a92c-4c75-b02e-d64c0a86a968",
-    "AvailableBuild": "16.0.20026.20084",
+    "AvailableBuild": "16.0.20026.20090",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.20026.20084",
+    "LkgBuild": "16.0.20026.20090",
     "ExpiredBuilds": [],
     "ForkName": "2604-Apr",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-05-20T21:45:20.387",
+    "UpdatedTimeUtc": "2026-05-22T01:25:14.147",
     "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -2495,6 +2559,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2538,6 +2603,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2561,6 +2627,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   }
 ]
