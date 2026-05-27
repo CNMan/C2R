@@ -12,6 +12,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-20T15:30:12.18",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -19,6 +20,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -34,6 +36,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2020-03-10T14:38:59.337",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -41,6 +44,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -58,6 +62,7 @@
     "BuildRank": 1,
     "Type": "Custom",
     "UpdatedTimeUtc": "2020-05-29T20:45:06.81",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [
       "HomeBusinessPipcRetail.16",
@@ -113,6 +118,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -128,6 +134,7 @@
     "BuildRank": 1,
     "Type": "Custom CHPE",
     "UpdatedTimeUtc": "2026-05-15T22:05:06.523",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -140,6 +147,7 @@
       }
     ],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -155,6 +163,7 @@
     "BuildRank": 1,
     "Type": "Custom Win10PreRS5",
     "UpdatedTimeUtc": "2026-05-12T22:20:15.44",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -201,6 +210,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -216,6 +226,7 @@
     "BuildRank": 1,
     "Type": "Custom Win8.1",
     "UpdatedTimeUtc": "2023-02-17T04:07:40.407",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -243,6 +254,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -258,6 +270,7 @@
     "BuildRank": 1,
     "Type": "Custom Win7",
     "UpdatedTimeUtc": "2023-01-18T22:55:23.063",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -285,6 +298,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -300,6 +314,7 @@
     "BuildRank": 1,
     "Type": "Custom Block",
     "UpdatedTimeUtc": "2025-10-14T19:54:37.3",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [
       "HomeBusiness2019Retail.16",
@@ -321,6 +336,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": true,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -328,7 +344,7 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
-    "AvailableBuild": "16.0.20026.20076",
+    "AvailableBuild": "16.0.20026.20112",
     "ThrottleLevel": 1,
     "LkgBuild": "16.0.19929.20172",
     "ExpiredBuilds": [
@@ -337,7 +353,8 @@
     "ForkName": "2604-Apr",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-05-20T01:30:08.173",
+    "UpdatedTimeUtc": "2026-05-26T20:45:09.077",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -345,6 +362,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -360,6 +378,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-18T15:25:08.94",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -367,6 +386,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -387,6 +407,7 @@
     "BuildRank": 1,
     "Type": "Custom",
     "UpdatedTimeUtc": "2025-10-07T17:24:33.407",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [
@@ -396,6 +417,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -411,6 +433,7 @@
     "BuildRank": 1,
     "Type": "Custom",
     "UpdatedTimeUtc": "2021-01-22T23:02:03.697",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [
       "HomeBusinessPipcRetail.16",
@@ -466,6 +489,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -481,6 +505,7 @@
     "BuildRank": 1,
     "Type": "Custom CHPE",
     "UpdatedTimeUtc": "2026-05-15T22:00:36.753",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -493,6 +518,7 @@
       }
     ],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -508,6 +534,7 @@
     "BuildRank": 1,
     "Type": "Custom Win10PreRS5",
     "UpdatedTimeUtc": "2026-03-19T18:55:40.267",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -554,6 +581,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -569,6 +597,7 @@
     "BuildRank": 1,
     "Type": "Custom Win7",
     "UpdatedTimeUtc": "2023-01-18T22:55:23.063",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -596,6 +625,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -603,8 +633,8 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "5440fd1f-7ecb-4221-8110-145efaa6372f",
-    "AvailableBuild": "16.0.20120.20000",
-    "ThrottleLevel": 1000,
+    "AvailableBuild": "16.0.20123.20000",
+    "ThrottleLevel": 250,
     "LkgBuild": "16.0.20120.20000",
     "ExpiredBuilds": [
       "16.0.18205.20002",
@@ -613,7 +643,8 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-05-23T13:25:06.183",
+    "UpdatedTimeUtc": "2026-05-26T17:00:28.717",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -621,6 +652,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -636,6 +668,7 @@
     "BuildRank": 1,
     "Type": "Custom Win7",
     "UpdatedTimeUtc": "2020-03-10T12:43:23.113",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -663,6 +696,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -670,16 +704,17 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "5462eee5-1e97-495b-9370-853cd873bb07",
-    "AvailableBuild": "16.0.20026.20076",
+    "AvailableBuild": "16.0.20026.20112",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.20026.20076",
+    "LkgBuild": "16.0.20026.20112",
     "ExpiredBuilds": [
       "16.0.18925.20006"
     ],
     "ForkName": "2604-Apr",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-05-20T07:00:10.393",
+    "UpdatedTimeUtc": "2026-05-26T22:20:25.017",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -687,6 +722,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -702,6 +738,7 @@
     "BuildRank": 1,
     "Type": "Custom CHPE",
     "UpdatedTimeUtc": "2026-05-15T22:05:06.523",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -714,6 +751,7 @@
       }
     ],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -729,6 +767,7 @@
     "BuildRank": 1,
     "Type": "Custom Win10PreRS5",
     "UpdatedTimeUtc": "2026-05-12T22:50:13.057",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -775,6 +814,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -790,6 +830,7 @@
     "BuildRank": 1,
     "Type": "Custom Win8.1",
     "UpdatedTimeUtc": "2023-02-15T00:13:29.71",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -817,6 +858,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -832,6 +874,7 @@
     "BuildRank": 1,
     "Type": "Custom Win7",
     "UpdatedTimeUtc": "2023-01-18T22:55:23.063",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -859,6 +902,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -883,6 +927,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-19T21:07:47.717",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -890,10 +935,11 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
-    "Id": 1780740,
+    "Id": 1781358,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -914,6 +960,7 @@
     "BuildRank": 2,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-19T21:07:47.717",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -921,6 +968,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -945,6 +993,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-19T21:07:47.717",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -952,10 +1001,11 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
-    "Id": 1780741,
+    "Id": 1781359,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -976,6 +1026,7 @@
     "BuildRank": 3,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-19T21:07:47.717",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -983,10 +1034,11 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
-    "Id": 1780742,
+    "Id": 1781360,
     "Name": "Default",
     "Order": 121,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1007,6 +1059,7 @@
     "BuildRank": 2,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-19T21:07:47.717",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1014,6 +1067,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1038,6 +1092,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-19T21:07:47.717",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1045,6 +1100,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1063,6 +1119,7 @@
     "BuildRank": 1,
     "Type": "Custom",
     "UpdatedTimeUtc": "2020-05-22T18:07:06.81",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [
       "HomeBusinessPipcRetail.16",
@@ -1118,6 +1175,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1137,6 +1195,7 @@
     "BuildRank": 1,
     "Type": "Custom CHPE",
     "UpdatedTimeUtc": "2026-05-15T22:05:06.523",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1149,6 +1208,7 @@
       }
     ],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1164,6 +1224,7 @@
     "BuildRank": 1,
     "Type": "Custom Win8.1",
     "UpdatedTimeUtc": "2023-02-16T23:38:58.157",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1191,6 +1252,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1206,6 +1268,7 @@
     "BuildRank": 1,
     "Type": "Custom Win7",
     "UpdatedTimeUtc": "2023-01-18T23:00:31.293",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1233,6 +1296,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1252,6 +1316,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-20T01:55:07.583",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1259,6 +1324,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1274,6 +1340,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-18T15:25:08.94",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1281,6 +1348,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1302,6 +1370,7 @@
     "BuildRank": 1,
     "Type": "Custom",
     "UpdatedTimeUtc": "2020-12-10T23:58:23.72",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [
       "HomeBusinessPipcRetail.16",
@@ -1357,6 +1426,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1372,6 +1442,7 @@
     "BuildRank": 1,
     "Type": "Custom CHPE",
     "UpdatedTimeUtc": "2026-05-15T22:05:06.523",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1384,6 +1455,7 @@
       }
     ],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1399,6 +1471,7 @@
     "BuildRank": 1,
     "Type": "Custom Win8.1",
     "UpdatedTimeUtc": "2023-02-15T01:30:38.75",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1426,6 +1499,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1441,6 +1515,7 @@
     "BuildRank": 1,
     "Type": "Custom Win7",
     "UpdatedTimeUtc": "2023-01-18T23:00:31.293",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1468,6 +1543,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1485,6 +1561,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-25T15:00:30.447",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1492,6 +1569,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1507,6 +1585,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2020-03-05T20:54:15.927",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1514,6 +1593,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1529,6 +1609,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-04T21:45:12.23",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1536,6 +1617,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1554,6 +1636,7 @@
     "BuildRank": 1,
     "Type": "Custom",
     "UpdatedTimeUtc": "2020-09-14T20:43:28.25",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [
       "HomeBusinessPipcRetail.16",
@@ -1609,6 +1692,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1624,6 +1708,7 @@
     "BuildRank": 1,
     "Type": "Custom Win7",
     "UpdatedTimeUtc": "2020-08-11T08:55:10.38",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1651,6 +1736,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1666,6 +1752,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2025-08-12T10:40:13.037",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1673,6 +1760,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1688,6 +1776,7 @@
     "BuildRank": 1,
     "Type": "Custom Win7",
     "UpdatedTimeUtc": "2020-03-10T12:39:06.02",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1715,6 +1804,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1733,6 +1823,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-10T20:20:11.433",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1740,6 +1831,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1757,6 +1849,7 @@
     "BuildRank": 1,
     "Type": "Custom",
     "UpdatedTimeUtc": "2020-09-18T18:22:35.22",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [
       "HomeBusinessPipcRetail.16",
@@ -1812,6 +1905,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1827,6 +1921,7 @@
     "BuildRank": 1,
     "Type": "Custom Win8.1",
     "UpdatedTimeUtc": "2023-02-15T01:30:38.937",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1854,6 +1949,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1869,6 +1965,7 @@
     "BuildRank": 1,
     "Type": "Custom Win7",
     "UpdatedTimeUtc": "2023-01-18T22:55:23.063",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1896,6 +1993,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -1911,6 +2009,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2025-08-18T14:25:05.3",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1918,6 +2017,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -1936,6 +2036,7 @@
     "BuildRank": 1,
     "Type": "Argus",
     "UpdatedTimeUtc": "2017-06-22T16:29:53.21",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1982,6 +2083,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2000,6 +2102,7 @@
     "BuildRank": 1,
     "Type": "Argus",
     "UpdatedTimeUtc": "2017-06-22T15:41:32.277",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2046,6 +2149,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2064,6 +2168,7 @@
     "BuildRank": 1,
     "Type": "Argus",
     "UpdatedTimeUtc": "2017-06-22T15:41:32.277",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2074,6 +2179,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2092,6 +2198,7 @@
     "BuildRank": 1,
     "Type": "Argus",
     "UpdatedTimeUtc": "2017-06-22T15:41:32.277",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [
@@ -2102,6 +2209,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2120,6 +2228,7 @@
     "BuildRank": 1,
     "Type": "Argus",
     "UpdatedTimeUtc": "2017-06-22T15:41:32.277",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [
       "Word",
@@ -2130,6 +2239,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2148,6 +2258,7 @@
     "BuildRank": 1,
     "Type": "Argus",
     "UpdatedTimeUtc": "2017-06-22T15:41:32.277",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [
       "badbadba-dbad-badb-adba-badbadbadbad"
     ],
@@ -2157,6 +2268,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2175,6 +2287,7 @@
     "BuildRank": 1,
     "Type": "Argus",
     "UpdatedTimeUtc": "2017-06-22T15:41:32.277",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2182,6 +2295,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2197,6 +2311,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-06T22:35:11.78",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2204,6 +2319,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2219,6 +2335,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2023-01-11T18:10:13.543",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2226,6 +2343,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2241,6 +2359,7 @@
     "BuildRank": 1,
     "Type": "Custom Win8.1",
     "UpdatedTimeUtc": "2023-02-08T21:08:48.723",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2268,6 +2387,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2283,6 +2403,7 @@
     "BuildRank": 1,
     "Type": "Custom Win7",
     "UpdatedTimeUtc": "2020-01-27T22:22:59.743",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2310,6 +2431,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2317,9 +2439,9 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "ea4a4090-de26-49d7-93c1-91bff9e53fc3",
-    "AvailableBuild": "16.0.20123.20000",
+    "AvailableBuild": "16.0.20125.20000",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.20123.20000",
+    "LkgBuild": "16.0.20125.20000",
     "ExpiredBuilds": [
       "16.0.17824.20000",
       "16.0.17824.20002",
@@ -2336,7 +2458,8 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-05-25T17:50:11.247",
+    "UpdatedTimeUtc": "2026-05-26T19:30:12.54",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2344,6 +2467,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2359,6 +2483,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-19T17:15:11.647",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2366,6 +2491,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2381,6 +2507,7 @@
     "BuildRank": 1,
     "Type": "Custom Win7",
     "UpdatedTimeUtc": "2020-03-01T23:49:05.697",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2408,6 +2535,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2415,14 +2543,15 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "f3260cf1-a92c-4c75-b02e-d64c0a86a968",
-    "AvailableBuild": "16.0.20026.20112",
+    "AvailableBuild": "16.0.20026.20116",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.20026.20112",
+    "LkgBuild": "16.0.20026.20116",
     "ExpiredBuilds": [],
     "ForkName": "2604-Apr",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-05-26T02:50:26.74",
+    "UpdatedTimeUtc": "2026-05-27T02:15:16.94",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2430,6 +2559,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   },
   {
@@ -2445,6 +2575,7 @@
     "BuildRank": 1,
     "Type": "Custom Win7",
     "UpdatedTimeUtc": "2020-12-08T11:04:31.34",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2472,6 +2603,7 @@
     ],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": false
   },
   {
@@ -2487,6 +2619,7 @@
     "BuildRank": 1,
     "Type": "Default",
     "UpdatedTimeUtc": "2026-05-12T04:50:06.5",
+    "AvailabilityDate": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2494,6 +2627,7 @@
     "OsVersions": [],
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": false,
     "IsDefault": true
   }
 ]
