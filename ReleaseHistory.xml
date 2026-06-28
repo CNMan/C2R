@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ReleaseHistory PublishedDate="06/26/2026 19:08">
+<ReleaseHistory PublishedDate="06/27/2026 20:23">
   <UpdateChannel Name="InsiderSlow" ID="CurrentPreview" DisplayName="Current Channel (Preview)">
     <Update Latest="True" Version="2606" LegacyVersion="16.0.20131.20090" Build="20131.20090" PubTime="2026-06-25T06:33:22.327Z" />
     <Update Latest="False" Version="2606" LegacyVersion="16.0.20131.20068" Build="20131.20068" PubTime="2026-06-18T23:33:59.133Z" />
@@ -115,7 +115,6 @@
     <Update Latest="False" Version="LTSB2024" LegacyVersion="16.0.17932.20042" Build="17932.20042" PubTime="2024-08-13T17:59:58.927Z" />
     <Update Latest="False" Version="LTSB2024" LegacyVersion="16.0.17830.20142" Build="17830.20142" PubTime="2024-08-05T20:21:12.867Z" />
     <Update Latest="False" Version="LTSB2024" LegacyVersion="16.0.17726.20158" Build="17726.20158" PubTime="2024-07-15T17:17:17.937Z" />
-    <Update Latest="False" Version="LTSB2024" LegacyVersion="16.0.17726.20126" Build="17726.20126" PubTime="2024-06-26T19:32:10.91Z" />
   </UpdateChannel>
   <UpdateChannel Name="MonthlyEnterprise" ID="MonthlyEnterprise" DisplayName="Monthly Enterprise Channel">
     <Update Latest="True" Version="2605" LegacyVersion="16.0.20026.20166" Build="20026.20166" PubTime="2026-06-09T13:43:51.89Z" />
