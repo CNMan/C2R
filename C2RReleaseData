@@ -50,7 +50,7 @@
   {
     "Id": 92875,
     "Name": "Win8",
-    "Order": 91,
+    "Order": 90,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.12730.20270",
     "ThrottleLevel": 1000,
@@ -124,7 +124,7 @@
   {
     "Id": 1503559,
     "Name": "CHPE",
-    "Order": 92,
+    "Order": 91,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.19127.20800",
     "ThrottleLevel": 1000,
@@ -153,7 +153,7 @@
   {
     "Id": 1725969,
     "Name": "Win10PreRS5",
-    "Order": 93,
+    "Order": 92,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.19725.20610",
     "ThrottleLevel": 1000,
@@ -216,7 +216,7 @@
   {
     "Id": 841169,
     "Name": "Win8.1",
-    "Order": 94,
+    "Order": 93,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.16026.20200",
     "ThrottleLevel": 1000,
@@ -260,7 +260,7 @@
   {
     "Id": 32,
     "Name": "Win7",
-    "Order": 95,
+    "Order": 94,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.12527.22286",
     "ThrottleLevel": 1000,
@@ -304,7 +304,7 @@
   {
     "Id": 1552555,
     "Name": "Block 2016/2019",
-    "Order": 96,
+    "Order": 95,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.19127.20800",
     "ThrottleLevel": 1000,
@@ -342,7 +342,7 @@
   {
     "Id": 1885925,
     "Name": "Block 2021",
-    "Order": 97,
+    "Order": 96,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.20326.20158",
     "ThrottleLevel": 1000,
@@ -375,7 +375,7 @@
   {
     "Id": 1891917,
     "Name": "Block 2016/2019+2021",
-    "Order": 98,
+    "Order": 97,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.20326.20158",
     "ThrottleLevel": 1000,
@@ -416,6 +416,117 @@
     "OfficePlatforms": [],
     "IsDeviceSubsetOfProductIdList": true,
     "IsSip": false,
+    "IsDefault": false
+  },
+  {
+    "Id": 1896865,
+    "Name": "Block Win10RS5+|WinServer2019+2022",
+    "Order": 98,
+    "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
+    "AvailableBuild": "16.0.20326.20158",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.20326.20158",
+    "ExpiredBuilds": [
+      "16.0.20430.20092",
+      "16.0.20430.20146"
+    ],
+    "ForkName": "2607-Jul",
+    "BuildRank": 1,
+    "Type": "Custom Block",
+    "UpdatedTimeUtc": "2026-10-12T17:00:00",
+    "AvailabilityTimestampUtc": "2026-09-18T22:43:02.02",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Server 2022",
+        "SkuType": "Server",
+        "MinBuild": 20348,
+        "MaxBuild": 20348,
+        "MajorMinorVersion": "10.0",
+        "MinResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 20348,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 20348,
+          "_Revision": 0
+        }
+      },
+      {
+        "Name": "Server 2019",
+        "SkuType": "Server",
+        "MinBuild": 17763,
+        "MaxBuild": 17763,
+        "MajorMinorVersion": "10.0",
+        "MinResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 17763,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 17763,
+          "_Revision": 0
+        }
+      },
+      {
+        "Name": "Win10RS5+",
+        "SkuType": "Client",
+        "MinBuild": 17135,
+        "MaxBuild": 19045,
+        "MajorMinorVersion": "10.0",
+        "MinResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 17135,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 19045,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDeviceSubsetOfProductIdList": true,
+    "IsSip": false,
+    "IsDefault": false
+  },
+  {
+    "Id": 126,
+    "Name": "SIP",
+    "Order": 99,
+    "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
+    "AvailableBuild": "16.0.20527.20054",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.20527.20054",
+    "ExpiredBuilds": [
+      "16.0.19426.20042"
+    ],
+    "ForkName": "2609-Sep",
+    "BuildRank": 1,
+    "Type": "Custom SIP",
+    "UpdatedTimeUtc": "2026-10-13T04:25:15.14",
+    "AvailabilityTimestampUtc": "2026-10-12T18:13:04.18",
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [],
+    "OfficePlatforms": [],
+    "IsDeviceSubsetOfProductIdList": false,
+    "IsSip": true,
     "IsDefault": false
   },
   {
@@ -751,8 +862,8 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "5462eee5-1e97-495b-9370-853cd873bb07",
-    "AvailableBuild": "16.0.20527.20032",
-    "ThrottleLevel": 1000,
+    "AvailableBuild": "16.0.20527.20054",
+    "ThrottleLevel": 200,
     "LkgBuild": "16.0.20527.20032",
     "ExpiredBuilds": [
       "16.0.18925.20006"
@@ -760,8 +871,8 @@
     "ForkName": "2609-Sep",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-10-07T05:10:12.597",
-    "AvailabilityTimestampUtc": "2026-10-06T16:06:42.947",
+    "UpdatedTimeUtc": "2026-10-12T18:15:15.627",
+    "AvailabilityTimestampUtc": "2026-10-12T18:13:04.18",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -986,7 +1097,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1896229,
+    "Id": 1897055,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1052,7 +1163,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1896230,
+    "Id": 1897056,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1085,7 +1196,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1896231,
+    "Id": 1897057,
     "Name": "Default",
     "Order": 121,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1351,8 +1462,8 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "64256afe-f5d9-4f86-8936-8840a6a4f5be",
-    "AvailableBuild": "16.0.20527.20032",
-    "ThrottleLevel": 1000,
+    "AvailableBuild": "16.0.20527.20054",
+    "ThrottleLevel": 250,
     "LkgBuild": "16.0.20527.20032",
     "ExpiredBuilds": [
       "16.0.19426.20024",
@@ -1362,8 +1473,8 @@
     "ForkName": "2609-Sep",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-10-07T15:10:09.95",
-    "AvailabilityTimestampUtc": "2026-10-06T17:13:35.127",
+    "UpdatedTimeUtc": "2026-10-12T18:45:55.343",
+    "AvailabilityTimestampUtc": "2026-10-12T18:42:28.91",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1712,15 +1823,15 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "86752282-5841-4120-ac80-db03ae6b5fdb",
-    "AvailableBuild": "16.0.14334.20918",
+    "AvailableBuild": "16.0.14334.20974",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.14334.20918",
+    "LkgBuild": "16.0.14334.20974",
     "ExpiredBuilds": [],
     "ForkName": "LTSB2021",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-09-17T00:40:07.17",
-    "AvailabilityTimestampUtc": "2026-09-17T15:17:38.03",
+    "UpdatedTimeUtc": "2026-10-12T22:20:16.283",
+    "AvailabilityTimestampUtc": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -2440,14 +2551,14 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "c02d8fe6-5242-4da8-972f-82ee55e00671",
-    "AvailableBuild": "16.0.17932.21048",
+    "AvailableBuild": "16.0.17932.21056",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.17932.21048",
+    "LkgBuild": "16.0.17932.21056",
     "ExpiredBuilds": [],
     "ForkName": "LTSB2024",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-10-08T02:40:09.34",
+    "UpdatedTimeUtc": "2026-10-12T21:50:38.223",
     "AvailabilityTimestampUtc": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -2576,9 +2687,9 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "ea4a4090-de26-49d7-93c1-91bff9e53fc3",
-    "AvailableBuild": "16.0.20608.20000",
+    "AvailableBuild": "16.0.20610.20000",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.20608.20000",
+    "LkgBuild": "16.0.20610.20000",
     "ExpiredBuilds": [
       "16.0.18309.20000",
       "16.0.19518.20000",
@@ -2592,7 +2703,7 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-10-09T22:25:10.073",
+    "UpdatedTimeUtc": "2026-10-12T19:45:14.123",
     "AvailabilityTimestampUtc": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -2677,14 +2788,14 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "f3260cf1-a92c-4c75-b02e-d64c0a86a968",
-    "AvailableBuild": "16.0.20527.20054",
+    "AvailableBuild": "16.0.20527.20060",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.20527.20054",
+    "LkgBuild": "16.0.20527.20060",
     "ExpiredBuilds": [],
     "ForkName": "2609-Sep",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-10-11T13:50:40.497",
+    "UpdatedTimeUtc": "2026-10-13T04:30:19.42",
     "AvailabilityTimestampUtc": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
