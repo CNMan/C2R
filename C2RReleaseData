@@ -509,7 +509,7 @@
     "Order": 100,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.20527.20088",
-    "ThrottleLevel": 1,
+    "ThrottleLevel": 10,
     "LkgBuild": "16.0.20430.20182",
     "ExpiredBuilds": [
       "16.0.19929.20164"
@@ -517,7 +517,7 @@
     "ForkName": "2609-Sep",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-10-21T02:20:12.143",
+    "UpdatedTimeUtc": "2026-10-22T16:50:15.993",
     "AvailabilityTimestampUtc": "2026-10-21T03:43:06.89",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -1071,7 +1071,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1904862,
+    "Id": 1905727,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1137,7 +1137,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1904863,
+    "Id": 1905728,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1170,7 +1170,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1904864,
+    "Id": 1905729,
     "Name": "Default",
     "Order": 121,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1238,7 +1238,7 @@
   {
     "Id": 92873,
     "Name": "Win8",
-    "Order": 96,
+    "Order": 95,
     "FFN": "64256afe-f5d9-4f86-8936-8840a6a4f5be",
     "AvailableBuild": "16.0.12730.20270",
     "ThrottleLevel": 1000,
@@ -1313,7 +1313,7 @@
   {
     "Id": 1503558,
     "Name": "CHPE",
-    "Order": 97,
+    "Order": 96,
     "FFN": "64256afe-f5d9-4f86-8936-8840a6a4f5be",
     "AvailableBuild": "16.0.19127.20860",
     "ThrottleLevel": 1000,
@@ -1346,7 +1346,7 @@
   {
     "Id": 842310,
     "Name": "Win8.1",
-    "Order": 98,
+    "Order": 97,
     "FFN": "64256afe-f5d9-4f86-8936-8840a6a4f5be",
     "AvailableBuild": "16.0.16130.20156",
     "ThrottleLevel": 1000,
@@ -1390,7 +1390,7 @@
   {
     "Id": 30,
     "Name": "Win7",
-    "Order": 99,
+    "Order": 98,
     "FFN": "64256afe-f5d9-4f86-8936-8840a6a4f5be",
     "AvailableBuild": "16.0.12527.22286",
     "ThrottleLevel": 1000,
@@ -1432,13 +1432,98 @@
     "IsDefault": false
   },
   {
+    "Id": 1905255,
+    "Name": "Block Win10RS5+|WinServer2019+2022",
+    "Order": 99,
+    "FFN": "64256afe-f5d9-4f86-8936-8840a6a4f5be",
+    "AvailableBuild": "16.0.20326.20232",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.20326.20232",
+    "ExpiredBuilds": [
+      "16.0.20430.20092",
+      "16.0.20430.20146"
+    ],
+    "ForkName": "2607-Jul",
+    "BuildRank": 1,
+    "Type": "Custom Block",
+    "UpdatedTimeUtc": "2026-10-22T09:00:00",
+    "AvailabilityTimestampUtc": null,
+    "OfficeTenantIds": [],
+    "OfficeProductNames": [],
+    "OfficeCultures": [],
+    "OfficeBitness": [],
+    "OsVersions": [
+      {
+        "Name": "Server 2022",
+        "SkuType": "Server",
+        "MinBuild": 20348,
+        "MaxBuild": 20348,
+        "MajorMinorVersion": "10.0",
+        "MinResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 20348,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 20348,
+          "_Revision": 0
+        }
+      },
+      {
+        "Name": "Server 2019",
+        "SkuType": "Server",
+        "MinBuild": 17763,
+        "MaxBuild": 17763,
+        "MajorMinorVersion": "10.0",
+        "MinResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 17763,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 17763,
+          "_Revision": 0
+        }
+      },
+      {
+        "Name": "Win10RS5+",
+        "SkuType": "Client",
+        "MinBuild": 17135,
+        "MaxBuild": 19045,
+        "MajorMinorVersion": "10.0",
+        "MinResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 17135,
+          "_Revision": 0
+        },
+        "MaxResolvedVersion": {
+          "_Major": 10,
+          "_Minor": 0,
+          "_Build": 19045,
+          "_Revision": 0
+        }
+      }
+    ],
+    "OfficePlatforms": [],
+    "IsDeviceSubsetOfProductIdList": true,
+    "IsSip": false,
+    "IsDefault": false
+  },
+  {
     "Id": 2,
     "Name": "Default",
     "Order": 100,
     "FFN": "64256afe-f5d9-4f86-8936-8840a6a4f5be",
     "AvailableBuild": "16.0.20527.20088",
-    "ThrottleLevel": 250,
-    "LkgBuild": "16.0.20527.20084",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.20527.20088",
     "ExpiredBuilds": [
       "16.0.19426.20024",
       "16.0.19426.20042",
@@ -1447,7 +1532,7 @@
     "ForkName": "2609-Sep",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-10-21T14:40:06.547",
+    "UpdatedTimeUtc": "2026-10-22T16:50:15.993",
     "AvailabilityTimestampUtc": "2026-10-21T14:36:27.7",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -1747,7 +1832,7 @@
     "Order": 100,
     "FFN": "7ffbc6bf-bc32-4f92-8982-f9dd17fd3114",
     "AvailableBuild": "16.0.20430.20178",
-    "ThrottleLevel": 400,
+    "ThrottleLevel": 500,
     "LkgBuild": "16.0.20326.20140",
     "ExpiredBuilds": [
       "16.0.19127.20646",
@@ -1756,7 +1841,7 @@
     "ForkName": "2608-Aug",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-10-21T16:10:13.25",
+    "UpdatedTimeUtc": "2026-10-22T15:55:14.95",
     "AvailabilityTimestampUtc": "2026-10-13T20:57:26.1",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -2661,9 +2746,9 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "ea4a4090-de26-49d7-93c1-91bff9e53fc3",
-    "AvailableBuild": "16.0.20619.20000",
+    "AvailableBuild": "16.0.20621.20000",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.20619.20000",
+    "LkgBuild": "16.0.20621.20000",
     "ExpiredBuilds": [
       "16.0.18309.20000",
       "16.0.19518.20000",
@@ -2677,7 +2762,7 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-10-21T19:20:14.29",
+    "UpdatedTimeUtc": "2026-10-22T20:30:23.277",
     "AvailabilityTimestampUtc": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
