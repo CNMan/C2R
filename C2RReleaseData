@@ -78,7 +78,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": null,
+        "Name": "Win 8",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -97,7 +97,7 @@
         }
       },
       {
-        "Name": null,
+        "Name": "Server 2012",
         "SkuType": "Server",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -233,7 +233,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.3",
+        "Name": "Win 8.1",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -277,7 +277,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.1",
+        "Name": "Win 7",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -479,7 +479,7 @@
         }
       },
       {
-        "Name": "Win10RS5+",
+        "Name": "Win 10PreRS5+",
         "SkuType": "Client",
         "MinBuild": 17135,
         "MaxBuild": 19045,
@@ -509,7 +509,7 @@
     "Order": 100,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.20527.20150",
-    "ThrottleLevel": 10,
+    "ThrottleLevel": 250,
     "LkgBuild": "16.0.20527.20112",
     "ExpiredBuilds": [
       "16.0.19929.20164"
@@ -517,7 +517,7 @@
     "ForkName": "2609-Sep",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-11-05T00:30:17.93",
+    "UpdatedTimeUtc": "2026-11-05T16:20:11.26",
     "AvailabilityTimestampUtc": "2026-11-04T01:20:45.74",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -582,7 +582,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": null,
+        "Name": "Win 8",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -601,7 +601,7 @@
         }
       },
       {
-        "Name": null,
+        "Name": "Server 2012",
         "SkuType": "Server",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -737,7 +737,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.1",
+        "Name": "Win 7",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -766,8 +766,8 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "5440fd1f-7ecb-4221-8110-145efaa6372f",
-    "AvailableBuild": "16.0.20625.20032",
-    "ThrottleLevel": 1000,
+    "AvailableBuild": "16.0.20701.20002",
+    "ThrottleLevel": 250,
     "LkgBuild": "16.0.20625.20032",
     "ExpiredBuilds": [
       "16.0.20005.20000",
@@ -776,8 +776,8 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-11-03T16:05:16.14",
-    "AvailabilityTimestampUtc": "2026-11-02T17:35:15.313",
+    "UpdatedTimeUtc": "2026-11-05T22:55:09.12",
+    "AvailabilityTimestampUtc": "2026-11-05T22:52:03.523",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -843,7 +843,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.1",
+        "Name": "Win 7",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -872,17 +872,17 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "5462eee5-1e97-495b-9370-853cd873bb07",
-    "AvailableBuild": "16.0.20625.20034",
+    "AvailableBuild": "16.0.20625.20044",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.20625.20034",
+    "LkgBuild": "16.0.20625.20044",
     "ExpiredBuilds": [
       "16.0.18925.20006"
     ],
     "ForkName": "2610-Oct",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-11-03T09:20:18.163",
-    "AvailabilityTimestampUtc": "2026-11-02T20:06:45.433",
+    "UpdatedTimeUtc": "2026-11-06T05:30:20.61",
+    "AvailabilityTimestampUtc": "2026-11-05T16:58:40.823",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1005,7 +1005,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.3",
+        "Name": "Win 8.1",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -1049,7 +1049,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.1",
+        "Name": "Win 7",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -1107,7 +1107,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1916985,
+    "Id": 1917923,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1173,7 +1173,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1916986,
+    "Id": 1917924,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1206,7 +1206,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1916987,
+    "Id": 1917925,
     "Name": "Default",
     "Order": 121,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1303,7 +1303,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": null,
+        "Name": "Win 8",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -1322,7 +1322,7 @@
         }
       },
       {
-        "Name": null,
+        "Name": "Server 2012",
         "SkuType": "Server",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -1399,7 +1399,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.3",
+        "Name": "Win 8.1",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -1443,7 +1443,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.1",
+        "Name": "Win 7",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -1482,7 +1482,7 @@
     "ForkName": "2607-Jul",
     "BuildRank": 1,
     "Type": "Custom Block",
-    "UpdatedTimeUtc": "2026-10-22T09:00:00",
+    "UpdatedTimeUtc": "2026-11-05T10:00:00",
     "AvailabilityTimestampUtc": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -1528,7 +1528,7 @@
         }
       },
       {
-        "Name": "Win10RS5+",
+        "Name": "Win 10PreRS5+",
         "SkuType": "Client",
         "MinBuild": 17135,
         "MaxBuild": 19045,
@@ -1557,8 +1557,8 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "64256afe-f5d9-4f86-8936-8840a6a4f5be",
-    "AvailableBuild": "16.0.20625.20034",
-    "ThrottleLevel": 1000,
+    "AvailableBuild": "16.0.20625.20044",
+    "ThrottleLevel": 250,
     "LkgBuild": "16.0.20625.20034",
     "ExpiredBuilds": [
       "16.0.19426.20024",
@@ -1568,8 +1568,8 @@
     "ForkName": "2610-Oct",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-11-04T15:55:19.113",
-    "AvailabilityTimestampUtc": "2026-11-04T00:17:25.873",
+    "UpdatedTimeUtc": "2026-11-06T00:20:17.257",
+    "AvailabilityTimestampUtc": "2026-11-06T00:18:43.297",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
     "OfficeCultures": [],
@@ -1606,7 +1606,7 @@
   },
   {
     "Id": 142,
-    "Name": "Win8.0",
+    "Name": "Win8",
     "Order": 95,
     "FFN": "7ffbc6bf-bc32-4f92-8982-f9dd17fd3114",
     "AvailableBuild": "16.0.12527.21416",
@@ -1639,7 +1639,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": null,
+        "Name": "Win 8",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -1658,7 +1658,7 @@
         }
       },
       {
-        "Name": null,
+        "Name": "Server 2012",
         "SkuType": "Server",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -1794,7 +1794,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.3",
+        "Name": "Win 8.1",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -1838,7 +1838,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.1",
+        "Name": "Win 7",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -1969,7 +1969,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": null,
+        "Name": "Win 8",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -1988,7 +1988,7 @@
         }
       },
       {
-        "Name": null,
+        "Name": "Server 2012",
         "SkuType": "Server",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -2032,7 +2032,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.1",
+        "Name": "Win 7",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -2100,7 +2100,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.1",
+        "Name": "Win 7",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -2179,7 +2179,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": null,
+        "Name": "Win 8",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -2198,7 +2198,7 @@
         }
       },
       {
-        "Name": null,
+        "Name": "Server 2012",
         "SkuType": "Server",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -2271,7 +2271,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.3",
+        "Name": "Win 8.1",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -2315,7 +2315,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.1",
+        "Name": "Win 7",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -2703,10 +2703,35 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Custom",
-    "UpdatedTimeUtc": "2026-10-29T16:45:21.427",
+    "UpdatedTimeUtc": "2026-11-05T06:50:24.81",
     "AvailabilityTimestampUtc": null,
     "OfficeTenantIds": [],
-    "OfficeProductNames": [],
+    "OfficeProductNames": [
+      "HomeBusiness2019Retail.16",
+      "HomeBusiness2021Retail.16",
+      "HomeBusiness2024Retail.16",
+      "HomeBusinessPipcRetail.16",
+      "HomeBusinessRetail.16",
+      "HomeStudent2019Retail.16",
+      "HomeStudent2021Retail.16",
+      "HomeStudentRetail.16",
+      "O365BusinessRetail.16",
+      "O365HomePremRetail.16",
+      "O365ProPlusRetail.16",
+      "O365SmallBusPremRetail.16",
+      "Personal2019Retail.16",
+      "Personal2021Retail.16",
+      "PersonalPipcRetail.16",
+      "PersonalRetail.16",
+      "Professional2019Retail.16",
+      "Professional2021Retail.16",
+      "ProfessionalPipcRetail.16",
+      "ProfessionalRetail.16",
+      "ProPlus2019Retail.16",
+      "ProPlus2021Retail.16",
+      "ProPlus2024Retail.16",
+      "ProPlusRetail.16"
+    ],
     "OfficeCultures": [],
     "OfficeBitness": [],
     "OsVersions": [],
@@ -2744,7 +2769,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.3",
+        "Name": "Win 8.1",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -2788,7 +2813,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.1",
+        "Name": "Win 7",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -2817,9 +2842,9 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "ea4a4090-de26-49d7-93c1-91bff9e53fc3",
-    "AvailableBuild": "16.0.20701.20002",
+    "AvailableBuild": "16.0.20704.20000",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.20701.20002",
+    "LkgBuild": "16.0.20704.20000",
     "ExpiredBuilds": [
       "16.0.18309.20000",
       "16.0.19518.20000",
@@ -2833,7 +2858,7 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-11-03T20:50:19.087",
+    "UpdatedTimeUtc": "2026-11-05T23:00:14.837",
     "AvailabilityTimestampUtc": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -2889,7 +2914,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.1",
+        "Name": "Win 7",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
@@ -2918,14 +2943,14 @@
     "Name": "Default",
     "Order": 100,
     "FFN": "f3260cf1-a92c-4c75-b02e-d64c0a86a968",
-    "AvailableBuild": "16.0.20625.20044",
+    "AvailableBuild": "16.0.20625.20056",
     "ThrottleLevel": 1000,
-    "LkgBuild": "16.0.20625.20044",
+    "LkgBuild": "16.0.20625.20056",
     "ExpiredBuilds": [],
     "ForkName": "2610-Oct",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-11-04T10:45:14.303",
+    "UpdatedTimeUtc": "2026-11-06T05:05:13.7",
     "AvailabilityTimestampUtc": null,
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -2957,7 +2982,7 @@
     "OfficeBitness": [],
     "OsVersions": [
       {
-        "Name": "Client|6.1",
+        "Name": "Win 7",
         "SkuType": "Client",
         "MinBuild": 0,
         "MaxBuild": 2147483647,
