@@ -509,7 +509,7 @@
     "Order": 100,
     "FFN": "492350f6-3a01-4f97-b9c0-c7c6ddf67d60",
     "AvailableBuild": "16.0.20625.20108",
-    "ThrottleLevel": 1,
+    "ThrottleLevel": 10,
     "LkgBuild": "16.0.20527.20196",
     "ExpiredBuilds": [
       "16.0.19929.20164"
@@ -517,7 +517,7 @@
     "ForkName": "2610-Oct",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-11-17T19:30:09.59",
+    "UpdatedTimeUtc": "2026-11-18T21:20:04.443",
     "AvailabilityTimestampUtc": "2026-11-17T19:25:23.44",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -767,8 +767,8 @@
     "Order": 100,
     "FFN": "5440fd1f-7ecb-4221-8110-145efaa6372f",
     "AvailableBuild": "16.0.20715.20000",
-    "ThrottleLevel": 250,
-    "LkgBuild": "16.0.20710.20002",
+    "ThrottleLevel": 1000,
+    "LkgBuild": "16.0.20715.20000",
     "ExpiredBuilds": [
       "16.0.20005.20000",
       "16.0.20625.20000"
@@ -776,7 +776,7 @@
     "ForkName": "Main",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-11-17T16:30:06.83",
+    "UpdatedTimeUtc": "2026-11-18T16:10:17.723",
     "AvailabilityTimestampUtc": "2026-11-17T16:27:52.017",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
@@ -1107,7 +1107,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1928298,
+    "Id": 1929162,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1173,7 +1173,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1928299,
+    "Id": 1929163,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1206,7 +1206,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1928300,
+    "Id": 1929164,
     "Name": "Default",
     "Order": 121,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1868,7 +1868,7 @@
     "Order": 100,
     "FFN": "7ffbc6bf-bc32-4f92-8982-f9dd17fd3114",
     "AvailableBuild": "16.0.20527.20192",
-    "ThrottleLevel": 300,
+    "ThrottleLevel": 400,
     "LkgBuild": "16.0.20430.20178",
     "ExpiredBuilds": [
       "16.0.19127.20646",
@@ -1877,7 +1877,7 @@
     "ForkName": "2609-Sep",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-11-16T16:05:17.353",
+    "UpdatedTimeUtc": "2026-11-18T17:10:13.76",
     "AvailabilityTimestampUtc": "2026-11-10T19:53:28.693",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
