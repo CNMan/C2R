@@ -1072,7 +1072,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1931757,
+    "Id": 1932621,
     "Name": "Default",
     "Order": 110,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1138,7 +1138,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1931758,
+    "Id": 1932622,
     "Name": "Default",
     "Order": 120,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1171,7 +1171,7 @@
     "IsDefault": true
   },
   {
-    "Id": 1931759,
+    "Id": 1932623,
     "Name": "Default",
     "Order": 121,
     "FFN": "55336b82-a18d-4dd6-b5f6-9e5095c314a6",
@@ -1833,7 +1833,7 @@
     "Order": 100,
     "FFN": "7ffbc6bf-bc32-4f92-8982-f9dd17fd3114",
     "AvailableBuild": "16.0.20527.20192",
-    "ThrottleLevel": 700,
+    "ThrottleLevel": 800,
     "LkgBuild": "16.0.20430.20178",
     "ExpiredBuilds": [
       "16.0.19127.20646",
@@ -1842,7 +1842,7 @@
     "ForkName": "2609-Sep",
     "BuildRank": 1,
     "Type": "Default",
-    "UpdatedTimeUtc": "2026-11-21T17:00:31.687",
+    "UpdatedTimeUtc": "2026-11-22T16:45:16.023",
     "AvailabilityTimestampUtc": "2026-11-10T19:53:28.693",
     "OfficeTenantIds": [],
     "OfficeProductNames": [],
